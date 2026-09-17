@@ -1,0 +1,6 @@
+# Private reference screenshots — never publish
+inspiration/
+# OS / cruft
+.DS_Store
+**/.DS_Store
+*.log
