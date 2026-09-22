@@ -52,40 +52,40 @@
   ],
   "wallpapers": [
     {
-      "id": "old_money_05",
+      "id": "old_money_c13",
       "title": "Quiet Luxury",
       "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_05.webp",
-      "regular": "catalog/old_money/preview/old_money_05.webp",
-      "full": "catalog/old_money/old_money_05.png"
+      "thumb": "catalog/old_money/thumbs/old_money_c13.webp",
+      "regular": "catalog/old_money/preview/old_money_c13.webp",
+      "full": "catalog/old_money/old_money_c13.png"
     },
     {
-      "id": "dark_aesthetic_c09",
+      "id": "dark_aesthetic_c08",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c09.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c09.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c09.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c08.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c08.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c08.png"
     },
     {
-      "id": "lux_abstract_12",
+      "id": "lux_abstract_11",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_12.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_12.webp",
-      "full": "catalog/lux_abstract/lux_abstract_12.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_11.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_11.webp",
+      "full": "catalog/lux_abstract/lux_abstract_11.png"
     },
     {
-      "id": "city_skyline_21",
+      "id": "city_skyline_c01",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_21.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_21.webp",
-      "full": "catalog/city_skyline/city_skyline_21.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_c01.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_c01.webp",
+      "full": "catalog/city_skyline/city_skyline_c01.png"
     },
     {
       "id": "locked_in_11",
@@ -106,49 +106,49 @@
       "full": "catalog/devoted/devoted_10.png"
     },
     {
-      "id": "nature_landscape_10",
+      "id": "nature_landscape_17",
       "title": "Wilderness",
       "category": "nature_landscape",
       "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_10.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_10.webp",
-      "full": "catalog/nature_landscape/nature_landscape_10.png"
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_17.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_17.webp",
+      "full": "catalog/nature_landscape/nature_landscape_17.png"
     },
     {
-      "id": "dark_nature_11",
+      "id": "dark_nature_12",
       "title": "Nightfall",
       "category": "dark_nature",
       "author": "AI",
-      "thumb": "catalog/dark_nature/thumbs/dark_nature_11.webp",
-      "regular": "catalog/dark_nature/preview/dark_nature_11.webp",
-      "full": "catalog/dark_nature/dark_nature_11.png"
+      "thumb": "catalog/dark_nature/thumbs/dark_nature_12.webp",
+      "regular": "catalog/dark_nature/preview/dark_nature_12.webp",
+      "full": "catalog/dark_nature/dark_nature_12.png"
     },
     {
-      "id": "abstract_gradient_09",
+      "id": "abstract_gradient_17",
       "title": "Flow",
       "category": "abstract_gradient",
       "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_09.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_09.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_09.png"
+      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_17.webp",
+      "regular": "catalog/abstract_gradient/preview/abstract_gradient_17.webp",
+      "full": "catalog/abstract_gradient/abstract_gradient_17.png"
     },
     {
-      "id": "ocean_water_23",
+      "id": "ocean_water_10",
       "title": "Tides",
       "category": "ocean_water",
       "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_23.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_23.webp",
-      "full": "catalog/ocean_water/ocean_water_23.png"
+      "thumb": "catalog/ocean_water/thumbs/ocean_water_10.webp",
+      "regular": "catalog/ocean_water/preview/ocean_water_10.webp",
+      "full": "catalog/ocean_water/ocean_water_10.png"
     },
     {
-      "id": "beach_tropical_13",
+      "id": "beach_tropical_20",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_13.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_13.webp",
-      "full": "catalog/beach_tropical/beach_tropical_13.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_20.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_20.webp",
+      "full": "catalog/beach_tropical/beach_tropical_20.png"
     },
     {
       "id": "black_hole_09",
@@ -169,31 +169,31 @@
       "full": "catalog/old_money/old_money_c01.png"
     },
     {
-      "id": "dark_aesthetic_c02",
+      "id": "dark_aesthetic_c01",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c02.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c02.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c02.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c01.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c01.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c01.png"
     },
     {
-      "id": "lux_abstract_02",
+      "id": "lux_abstract_01",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_02.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_02.webp",
-      "full": "catalog/lux_abstract/lux_abstract_02.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_01.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_01.webp",
+      "full": "catalog/lux_abstract/lux_abstract_01.png"
     },
     {
-      "id": "city_skyline_12",
+      "id": "city_skyline_13",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_12.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_12.webp",
-      "full": "catalog/city_skyline/city_skyline_12.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_13.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_13.webp",
+      "full": "catalog/city_skyline/city_skyline_13.png"
     },
     {
       "id": "locked_in_10",
@@ -214,13 +214,13 @@
       "full": "catalog/devoted/devoted_09.png"
     },
     {
-      "id": "nature_landscape_w01",
+      "id": "nature_landscape_12",
       "title": "Wilderness",
       "category": "nature_landscape",
       "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_w01.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_w01.webp",
-      "full": "catalog/nature_landscape/nature_landscape_w01.png"
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_12.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_12.webp",
+      "full": "catalog/nature_landscape/nature_landscape_12.png"
     },
     {
       "id": "dark_nature_01",
@@ -232,13 +232,13 @@
       "full": "catalog/dark_nature/dark_nature_01.png"
     },
     {
-      "id": "abstract_gradient_20",
+      "id": "abstract_gradient_18",
       "title": "Flow",
       "category": "abstract_gradient",
       "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_20.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_20.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_20.png"
+      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_18.webp",
+      "regular": "catalog/abstract_gradient/preview/abstract_gradient_18.webp",
+      "full": "catalog/abstract_gradient/abstract_gradient_18.png"
     },
     {
       "id": "ocean_water_05",
@@ -250,13 +250,13 @@
       "full": "catalog/ocean_water/ocean_water_05.png"
     },
     {
-      "id": "beach_tropical_20",
+      "id": "beach_tropical_22",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_20.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_20.webp",
-      "full": "catalog/beach_tropical/beach_tropical_20.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_22.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_22.webp",
+      "full": "catalog/beach_tropical/beach_tropical_22.png"
     },
     {
       "id": "black_hole_08",
@@ -268,40 +268,40 @@
       "full": "catalog/black_hole/black_hole_08.png"
     },
     {
-      "id": "old_money_c19",
+      "id": "old_money_c04",
       "title": "Quiet Luxury",
       "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_c19.webp",
-      "regular": "catalog/old_money/preview/old_money_c19.webp",
-      "full": "catalog/old_money/old_money_c19.png"
+      "thumb": "catalog/old_money/thumbs/old_money_c04.webp",
+      "regular": "catalog/old_money/preview/old_money_c04.webp",
+      "full": "catalog/old_money/old_money_c04.png"
     },
     {
-      "id": "dark_aesthetic_c12",
+      "id": "dark_aesthetic_c11",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c12.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c12.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c12.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c11.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c11.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c11.png"
     },
     {
-      "id": "lux_abstract_c13",
+      "id": "lux_abstract_c14",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c13.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_c13.webp",
-      "full": "catalog/lux_abstract/lux_abstract_c13.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c14.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_c14.webp",
+      "full": "catalog/lux_abstract/lux_abstract_c14.png"
     },
     {
-      "id": "city_skyline_19",
+      "id": "city_skyline_20",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_19.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_19.webp",
-      "full": "catalog/city_skyline/city_skyline_19.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_20.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_20.webp",
+      "full": "catalog/city_skyline/city_skyline_20.png"
     },
     {
       "id": "locked_in_05",
@@ -322,49 +322,49 @@
       "full": "catalog/devoted/devoted_12.png"
     },
     {
-      "id": "nature_landscape_21",
+      "id": "nature_landscape_19",
       "title": "Wilderness",
       "category": "nature_landscape",
       "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_21.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_21.webp",
-      "full": "catalog/nature_landscape/nature_landscape_21.png"
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_19.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_19.webp",
+      "full": "catalog/nature_landscape/nature_landscape_19.png"
     },
     {
-      "id": "dark_nature_10",
+      "id": "dark_nature_11",
       "title": "Nightfall",
       "category": "dark_nature",
       "author": "AI",
-      "thumb": "catalog/dark_nature/thumbs/dark_nature_10.webp",
-      "regular": "catalog/dark_nature/preview/dark_nature_10.webp",
-      "full": "catalog/dark_nature/dark_nature_10.png"
+      "thumb": "catalog/dark_nature/thumbs/dark_nature_11.webp",
+      "regular": "catalog/dark_nature/preview/dark_nature_11.webp",
+      "full": "catalog/dark_nature/dark_nature_11.png"
     },
     {
-      "id": "abstract_gradient_05",
+      "id": "abstract_gradient_13",
       "title": "Flow",
       "category": "abstract_gradient",
       "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_05.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_05.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_05.png"
+      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_13.webp",
+      "regular": "catalog/abstract_gradient/preview/abstract_gradient_13.webp",
+      "full": "catalog/abstract_gradient/abstract_gradient_13.png"
     },
     {
-      "id": "ocean_water_18",
+      "id": "ocean_water_16",
       "title": "Tides",
       "category": "ocean_water",
       "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_18.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_18.webp",
-      "full": "catalog/ocean_water/ocean_water_18.png"
+      "thumb": "catalog/ocean_water/thumbs/ocean_water_16.webp",
+      "regular": "catalog/ocean_water/preview/ocean_water_16.webp",
+      "full": "catalog/ocean_water/ocean_water_16.png"
     },
     {
-      "id": "beach_tropical_11",
+      "id": "beach_tropical_05",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_11.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_11.webp",
-      "full": "catalog/beach_tropical/beach_tropical_11.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_05.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_05.webp",
+      "full": "catalog/beach_tropical/beach_tropical_05.png"
     },
     {
       "id": "black_hole_05",
@@ -376,22 +376,22 @@
       "full": "catalog/black_hole/black_hole_05.png"
     },
     {
-      "id": "old_money_02",
+      "id": "old_money_05",
       "title": "Quiet Luxury",
       "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_02.webp",
-      "regular": "catalog/old_money/preview/old_money_02.webp",
-      "full": "catalog/old_money/old_money_02.png"
+      "thumb": "catalog/old_money/thumbs/old_money_05.webp",
+      "regular": "catalog/old_money/preview/old_money_05.webp",
+      "full": "catalog/old_money/old_money_05.png"
     },
     {
-      "id": "dark_aesthetic_03",
+      "id": "dark_aesthetic_02",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_03.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_03.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_03.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_02.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_02.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_02.png"
     },
     {
       "id": "lux_abstract_c08",
@@ -403,13 +403,13 @@
       "full": "catalog/lux_abstract/lux_abstract_c08.png"
     },
     {
-      "id": "city_skyline_c07",
+      "id": "city_skyline_c08",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_c07.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_c07.webp",
-      "full": "catalog/city_skyline/city_skyline_c07.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_c08.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_c08.webp",
+      "full": "catalog/city_skyline/city_skyline_c08.png"
     },
     {
       "id": "locked_in_c05",
@@ -430,49 +430,49 @@
       "full": "catalog/devoted/devoted_07.png"
     },
     {
-      "id": "nature_landscape_20",
+      "id": "toscana",
       "title": "Wilderness",
       "category": "nature_landscape",
       "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_20.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_20.webp",
-      "full": "catalog/nature_landscape/nature_landscape_20.png"
+      "thumb": "catalog/nature_landscape/thumbs/toscana.webp",
+      "regular": "catalog/nature_landscape/preview/toscana.webp",
+      "full": "catalog/nature_landscape/toscana.png"
     },
     {
-      "id": "dark_nature_04",
+      "id": "dark_nature_05",
       "title": "Nightfall",
       "category": "dark_nature",
       "author": "AI",
-      "thumb": "catalog/dark_nature/thumbs/dark_nature_04.webp",
-      "regular": "catalog/dark_nature/preview/dark_nature_04.webp",
-      "full": "catalog/dark_nature/dark_nature_04.png"
+      "thumb": "catalog/dark_nature/thumbs/dark_nature_05.webp",
+      "regular": "catalog/dark_nature/preview/dark_nature_05.webp",
+      "full": "catalog/dark_nature/dark_nature_05.png"
     },
     {
-      "id": "abstract_gradient_24",
+      "id": "abstract_gradient_03",
       "title": "Flow",
       "category": "abstract_gradient",
       "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_24.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_24.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_24.png"
+      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_03.webp",
+      "regular": "catalog/abstract_gradient/preview/abstract_gradient_03.webp",
+      "full": "catalog/abstract_gradient/abstract_gradient_03.png"
     },
     {
-      "id": "ocean_water_03",
+      "id": "ocean_water_15",
       "title": "Tides",
       "category": "ocean_water",
       "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_03.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_03.webp",
-      "full": "catalog/ocean_water/ocean_water_03.png"
+      "thumb": "catalog/ocean_water/thumbs/ocean_water_15.webp",
+      "regular": "catalog/ocean_water/preview/ocean_water_15.webp",
+      "full": "catalog/ocean_water/ocean_water_15.png"
     },
     {
-      "id": "beach_tropical_23",
+      "id": "beach_tropical_18",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_23.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_23.webp",
-      "full": "catalog/beach_tropical/beach_tropical_23.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_18.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_18.webp",
+      "full": "catalog/beach_tropical/beach_tropical_18.png"
     },
     {
       "id": "black_hole_02",
@@ -484,40 +484,40 @@
       "full": "catalog/black_hole/black_hole_02.png"
     },
     {
-      "id": "old_money_10",
+      "id": "old_money_02",
       "title": "Quiet Luxury",
       "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_10.webp",
-      "regular": "catalog/old_money/preview/old_money_10.webp",
-      "full": "catalog/old_money/old_money_10.png"
+      "thumb": "catalog/old_money/thumbs/old_money_02.webp",
+      "regular": "catalog/old_money/preview/old_money_02.webp",
+      "full": "catalog/old_money/old_money_02.png"
     },
     {
-      "id": "dark_aesthetic_c07",
+      "id": "dark_aesthetic_c06",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c07.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c07.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c07.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c06.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c06.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c06.png"
     },
     {
-      "id": "lux_abstract_c03",
+      "id": "lux_abstract_c02",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c03.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_c03.webp",
-      "full": "catalog/lux_abstract/lux_abstract_c03.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c02.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_c02.webp",
+      "full": "catalog/lux_abstract/lux_abstract_c02.png"
     },
     {
-      "id": "city_skyline_11",
+      "id": "city_skyline_12",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_11.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_11.webp",
-      "full": "catalog/city_skyline/city_skyline_11.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_12.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_12.webp",
+      "full": "catalog/city_skyline/city_skyline_12.png"
     },
     {
       "id": "locked_in_09",
@@ -538,49 +538,49 @@
       "full": "catalog/devoted/devoted_02.png"
     },
     {
-      "id": "nature_landscape_16",
+      "id": "nature_landscape_03",
       "title": "Wilderness",
       "category": "nature_landscape",
       "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_16.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_16.webp",
-      "full": "catalog/nature_landscape/nature_landscape_16.png"
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_03.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_03.webp",
+      "full": "catalog/nature_landscape/nature_landscape_03.png"
     },
     {
-      "id": "dark_nature_08",
+      "id": "dark_nature_09",
       "title": "Nightfall",
       "category": "dark_nature",
       "author": "AI",
-      "thumb": "catalog/dark_nature/thumbs/dark_nature_08.webp",
-      "regular": "catalog/dark_nature/preview/dark_nature_08.webp",
-      "full": "catalog/dark_nature/dark_nature_08.png"
+      "thumb": "catalog/dark_nature/thumbs/dark_nature_09.webp",
+      "regular": "catalog/dark_nature/preview/dark_nature_09.webp",
+      "full": "catalog/dark_nature/dark_nature_09.png"
     },
     {
-      "id": "abstract_gradient_14",
+      "id": "abstract_gradient_w01",
       "title": "Flow",
       "category": "abstract_gradient",
       "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_14.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_14.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_14.png"
+      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_w01.webp",
+      "regular": "catalog/abstract_gradient/preview/abstract_gradient_w01.webp",
+      "full": "catalog/abstract_gradient/abstract_gradient_w01.png"
     },
     {
-      "id": "ocean_water_17",
+      "id": "ocean_water_04",
       "title": "Tides",
       "category": "ocean_water",
       "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_17.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_17.webp",
-      "full": "catalog/ocean_water/ocean_water_17.png"
+      "thumb": "catalog/ocean_water/thumbs/ocean_water_04.webp",
+      "regular": "catalog/ocean_water/preview/ocean_water_04.webp",
+      "full": "catalog/ocean_water/ocean_water_04.png"
     },
     {
-      "id": "beach_tropical_05",
+      "id": "beach_tropical_10",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_05.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_05.webp",
-      "full": "catalog/beach_tropical/beach_tropical_05.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_10.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_10.webp",
+      "full": "catalog/beach_tropical/beach_tropical_10.png"
     },
     {
       "id": "black_hole_12",
@@ -592,40 +592,40 @@
       "full": "catalog/black_hole/black_hole_12.png"
     },
     {
-      "id": "old_money_c21",
+      "id": "old_money_c18",
       "title": "Quiet Luxury",
       "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_c21.webp",
-      "regular": "catalog/old_money/preview/old_money_c21.webp",
-      "full": "catalog/old_money/old_money_c21.png"
+      "thumb": "catalog/old_money/thumbs/old_money_c18.webp",
+      "regular": "catalog/old_money/preview/old_money_c18.webp",
+      "full": "catalog/old_money/old_money_c18.png"
     },
     {
-      "id": "dark_aesthetic_c08",
+      "id": "dark_aesthetic_c07",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c08.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c08.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c08.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c07.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c07.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c07.png"
     },
     {
-      "id": "lux_abstract_05",
+      "id": "lux_abstract_04",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_05.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_05.webp",
-      "full": "catalog/lux_abstract/lux_abstract_05.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_04.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_04.webp",
+      "full": "catalog/lux_abstract/lux_abstract_04.png"
     },
     {
-      "id": "city_skyline_c02",
+      "id": "city_skyline_c03",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_c02.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_c02.webp",
-      "full": "catalog/city_skyline/city_skyline_c02.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_c03.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_c03.webp",
+      "full": "catalog/city_skyline/city_skyline_c03.png"
     },
     {
       "id": "locked_in_c07",
@@ -646,49 +646,49 @@
       "full": "catalog/devoted/devoted_06.png"
     },
     {
-      "id": "nature_landscape_w02",
+      "id": "nature_landscape_w04",
       "title": "Wilderness",
       "category": "nature_landscape",
       "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_w02.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_w02.webp",
-      "full": "catalog/nature_landscape/nature_landscape_w02.png"
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_w04.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_w04.webp",
+      "full": "catalog/nature_landscape/nature_landscape_w04.png"
     },
     {
-      "id": "dark_nature_05",
+      "id": "dark_nature_06",
       "title": "Nightfall",
       "category": "dark_nature",
       "author": "AI",
-      "thumb": "catalog/dark_nature/thumbs/dark_nature_05.webp",
-      "regular": "catalog/dark_nature/preview/dark_nature_05.webp",
-      "full": "catalog/dark_nature/dark_nature_05.png"
+      "thumb": "catalog/dark_nature/thumbs/dark_nature_06.webp",
+      "regular": "catalog/dark_nature/preview/dark_nature_06.webp",
+      "full": "catalog/dark_nature/dark_nature_06.png"
     },
     {
-      "id": "abstract_gradient_17",
+      "id": "abstract_gradient_06",
       "title": "Flow",
       "category": "abstract_gradient",
       "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_17.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_17.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_17.png"
+      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_06.webp",
+      "regular": "catalog/abstract_gradient/preview/abstract_gradient_06.webp",
+      "full": "catalog/abstract_gradient/abstract_gradient_06.png"
     },
     {
-      "id": "ocean_water_20",
+      "id": "ocean_water_22",
       "title": "Tides",
       "category": "ocean_water",
       "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_20.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_20.webp",
-      "full": "catalog/ocean_water/ocean_water_20.png"
+      "thumb": "catalog/ocean_water/thumbs/ocean_water_22.webp",
+      "regular": "catalog/ocean_water/preview/ocean_water_22.webp",
+      "full": "catalog/ocean_water/ocean_water_22.png"
     },
     {
-      "id": "beach_tropical_22",
+      "id": "beach_tropical_16",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_22.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_22.webp",
-      "full": "catalog/beach_tropical/beach_tropical_22.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_16.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_16.webp",
+      "full": "catalog/beach_tropical/beach_tropical_16.png"
     },
     {
       "id": "black_hole_10",
@@ -700,31 +700,31 @@
       "full": "catalog/black_hole/black_hole_10.png"
     },
     {
-      "id": "old_money_c13",
+      "id": "old_money_c12",
       "title": "Quiet Luxury",
       "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_c13.webp",
-      "regular": "catalog/old_money/preview/old_money_c13.webp",
-      "full": "catalog/old_money/old_money_c13.png"
+      "thumb": "catalog/old_money/thumbs/old_money_c12.webp",
+      "regular": "catalog/old_money/preview/old_money_c12.webp",
+      "full": "catalog/old_money/old_money_c12.png"
     },
     {
-      "id": "dark_aesthetic_09",
+      "id": "dark_aesthetic_08",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_09.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_09.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_09.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_08.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_08.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_08.png"
     },
     {
-      "id": "lux_abstract_07",
+      "id": "lux_abstract_06",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_07.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_07.webp",
-      "full": "catalog/lux_abstract/lux_abstract_07.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_06.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_06.webp",
+      "full": "catalog/lux_abstract/lux_abstract_06.png"
     },
     {
       "id": "city_skyline_08",
@@ -754,49 +754,49 @@
       "full": "catalog/devoted/devoted_04.png"
     },
     {
-      "id": "nature_landscape_17",
+      "id": "nature_landscape_09",
       "title": "Wilderness",
       "category": "nature_landscape",
       "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_17.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_17.webp",
-      "full": "catalog/nature_landscape/nature_landscape_17.png"
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_09.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_09.webp",
+      "full": "catalog/nature_landscape/nature_landscape_09.png"
     },
     {
-      "id": "dark_nature_07",
+      "id": "dark_nature_08",
       "title": "Nightfall",
       "category": "dark_nature",
       "author": "AI",
-      "thumb": "catalog/dark_nature/thumbs/dark_nature_07.webp",
-      "regular": "catalog/dark_nature/preview/dark_nature_07.webp",
-      "full": "catalog/dark_nature/dark_nature_07.png"
+      "thumb": "catalog/dark_nature/thumbs/dark_nature_08.webp",
+      "regular": "catalog/dark_nature/preview/dark_nature_08.webp",
+      "full": "catalog/dark_nature/dark_nature_08.png"
     },
     {
-      "id": "abstract_gradient_15",
+      "id": "abstract_gradient_01",
       "title": "Flow",
       "category": "abstract_gradient",
       "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_15.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_15.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_15.png"
+      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_01.webp",
+      "regular": "catalog/abstract_gradient/preview/abstract_gradient_01.webp",
+      "full": "catalog/abstract_gradient/abstract_gradient_01.png"
     },
     {
-      "id": "ocean_water_07",
+      "id": "ocean_water_13",
       "title": "Tides",
       "category": "ocean_water",
       "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_07.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_07.webp",
-      "full": "catalog/ocean_water/ocean_water_07.png"
+      "thumb": "catalog/ocean_water/thumbs/ocean_water_13.webp",
+      "regular": "catalog/ocean_water/preview/ocean_water_13.webp",
+      "full": "catalog/ocean_water/ocean_water_13.png"
     },
     {
-      "id": "beach_tropical_14",
+      "id": "beach_tropical_17",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_14.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_14.webp",
-      "full": "catalog/beach_tropical/beach_tropical_14.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_17.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_17.webp",
+      "full": "catalog/beach_tropical/beach_tropical_17.png"
     },
     {
       "id": "black_hole_04",
@@ -808,40 +808,40 @@
       "full": "catalog/black_hole/black_hole_04.png"
     },
     {
-      "id": "old_money_c14",
+      "id": "old_money_c16",
       "title": "Quiet Luxury",
       "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_c14.webp",
-      "regular": "catalog/old_money/preview/old_money_c14.webp",
-      "full": "catalog/old_money/old_money_c14.png"
+      "thumb": "catalog/old_money/thumbs/old_money_c16.webp",
+      "regular": "catalog/old_money/preview/old_money_c16.webp",
+      "full": "catalog/old_money/old_money_c16.png"
     },
     {
-      "id": "dark_aesthetic_05",
+      "id": "dark_aesthetic_04",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_05.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_05.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_05.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_04.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_04.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_04.png"
     },
     {
-      "id": "lux_abstract_c01",
+      "id": "lux_abstract_12",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c01.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_c01.webp",
-      "full": "catalog/lux_abstract/lux_abstract_c01.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_12.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_12.webp",
+      "full": "catalog/lux_abstract/lux_abstract_12.png"
     },
     {
-      "id": "city_skyline_c13",
+      "id": "city_skyline_c14",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_c13.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_c13.webp",
-      "full": "catalog/city_skyline/city_skyline_c13.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_c14.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_c14.webp",
+      "full": "catalog/city_skyline/city_skyline_c14.png"
     },
     {
       "id": "locked_in_01",
@@ -862,13 +862,13 @@
       "full": "catalog/devoted/devoted_05.png"
     },
     {
-      "id": "nature_landscape_07",
+      "id": "nature_landscape_04",
       "title": "Wilderness",
       "category": "nature_landscape",
       "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_07.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_07.webp",
-      "full": "catalog/nature_landscape/nature_landscape_07.png"
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_04.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_04.webp",
+      "full": "catalog/nature_landscape/nature_landscape_04.png"
     },
     {
       "id": "dark_nature_02",
@@ -880,31 +880,31 @@
       "full": "catalog/dark_nature/dark_nature_02.png"
     },
     {
-      "id": "abstract_gradient_19",
+      "id": "abstract_gradient_14",
       "title": "Flow",
       "category": "abstract_gradient",
       "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_19.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_19.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_19.png"
+      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_14.webp",
+      "regular": "catalog/abstract_gradient/preview/abstract_gradient_14.webp",
+      "full": "catalog/abstract_gradient/abstract_gradient_14.png"
     },
     {
-      "id": "ocean_water_02",
+      "id": "ocean_water_01",
       "title": "Tides",
       "category": "ocean_water",
       "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_02.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_02.webp",
-      "full": "catalog/ocean_water/ocean_water_02.png"
+      "thumb": "catalog/ocean_water/thumbs/ocean_water_01.webp",
+      "regular": "catalog/ocean_water/preview/ocean_water_01.webp",
+      "full": "catalog/ocean_water/ocean_water_01.png"
     },
     {
-      "id": "beach_tropical_07",
+      "id": "beach_tropical_15",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_07.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_07.webp",
-      "full": "catalog/beach_tropical/beach_tropical_07.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_15.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_15.webp",
+      "full": "catalog/beach_tropical/beach_tropical_15.png"
     },
     {
       "id": "black_hole_07",
@@ -916,31 +916,31 @@
       "full": "catalog/black_hole/black_hole_07.png"
     },
     {
-      "id": "old_money_c18",
+      "id": "old_money_10",
       "title": "Quiet Luxury",
       "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_c18.webp",
-      "regular": "catalog/old_money/preview/old_money_c18.webp",
-      "full": "catalog/old_money/old_money_c18.png"
+      "thumb": "catalog/old_money/thumbs/old_money_10.webp",
+      "regular": "catalog/old_money/preview/old_money_10.webp",
+      "full": "catalog/old_money/old_money_10.png"
     },
     {
-      "id": "dark_aesthetic_01",
+      "id": "cat",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_01.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_01.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_01.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/cat.webp",
+      "regular": "catalog/dark_aesthetic/preview/cat.webp",
+      "full": "catalog/dark_aesthetic/cat.png"
     },
     {
-      "id": "lux_abstract_c04",
+      "id": "lux_abstract_c03",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c04.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_c04.webp",
-      "full": "catalog/lux_abstract/lux_abstract_c04.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c03.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_c03.webp",
+      "full": "catalog/lux_abstract/lux_abstract_c03.png"
     },
     {
       "id": "city_skyline_09",
@@ -970,49 +970,49 @@
       "full": "catalog/devoted/devoted_01.png"
     },
     {
-      "id": "nature_landscape_01",
+      "id": "nature_landscape_15",
       "title": "Wilderness",
       "category": "nature_landscape",
       "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_01.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_01.webp",
-      "full": "catalog/nature_landscape/nature_landscape_01.png"
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_15.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_15.webp",
+      "full": "catalog/nature_landscape/nature_landscape_15.png"
     },
     {
-      "id": "dark_nature_06",
+      "id": "dark_nature_07",
       "title": "Nightfall",
       "category": "dark_nature",
       "author": "AI",
-      "thumb": "catalog/dark_nature/thumbs/dark_nature_06.webp",
-      "regular": "catalog/dark_nature/preview/dark_nature_06.webp",
-      "full": "catalog/dark_nature/dark_nature_06.png"
+      "thumb": "catalog/dark_nature/thumbs/dark_nature_07.webp",
+      "regular": "catalog/dark_nature/preview/dark_nature_07.webp",
+      "full": "catalog/dark_nature/dark_nature_07.png"
     },
     {
-      "id": "abstract_gradient_07",
+      "id": "abstract_gradient_24",
       "title": "Flow",
       "category": "abstract_gradient",
       "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_07.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_07.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_07.png"
+      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_24.webp",
+      "regular": "catalog/abstract_gradient/preview/abstract_gradient_24.webp",
+      "full": "catalog/abstract_gradient/abstract_gradient_24.png"
     },
     {
-      "id": "ocean_water_14",
+      "id": "ocean_water_06",
       "title": "Tides",
       "category": "ocean_water",
       "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_14.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_14.webp",
-      "full": "catalog/ocean_water/ocean_water_14.png"
+      "thumb": "catalog/ocean_water/thumbs/ocean_water_06.webp",
+      "regular": "catalog/ocean_water/preview/ocean_water_06.webp",
+      "full": "catalog/ocean_water/ocean_water_06.png"
     },
     {
-      "id": "beach_tropical_10",
+      "id": "beach_tropical_07",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_10.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_10.webp",
-      "full": "catalog/beach_tropical/beach_tropical_10.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_07.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_07.webp",
+      "full": "catalog/beach_tropical/beach_tropical_07.png"
     },
     {
       "id": "black_hole_03",
@@ -1024,31 +1024,31 @@
       "full": "catalog/black_hole/black_hole_03.png"
     },
     {
-      "id": "old_money_c10",
+      "id": "old_money_04",
       "title": "Quiet Luxury",
       "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_c10.webp",
-      "regular": "catalog/old_money/preview/old_money_c10.webp",
-      "full": "catalog/old_money/old_money_c10.png"
+      "thumb": "catalog/old_money/thumbs/old_money_04.webp",
+      "regular": "catalog/old_money/preview/old_money_04.webp",
+      "full": "catalog/old_money/old_money_04.png"
     },
     {
-      "id": "dark_aesthetic_c14",
+      "id": "dark_aesthetic_c13",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c14.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c14.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c14.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c13.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c13.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c13.png"
     },
     {
-      "id": "lux_abstract_08",
+      "id": "lux_abstract_07",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_08.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_08.webp",
-      "full": "catalog/lux_abstract/lux_abstract_08.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_07.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_07.webp",
+      "full": "catalog/lux_abstract/lux_abstract_07.png"
     },
     {
       "id": "city_skyline_06",
@@ -1078,49 +1078,49 @@
       "full": "catalog/devoted/devoted_11.png"
     },
     {
-      "id": "nature_landscape_14",
+      "id": "nature_landscape_24",
       "title": "Wilderness",
       "category": "nature_landscape",
       "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_14.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_14.webp",
-      "full": "catalog/nature_landscape/nature_landscape_14.png"
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_24.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_24.webp",
+      "full": "catalog/nature_landscape/nature_landscape_24.png"
     },
     {
-      "id": "dark_nature_09",
+      "id": "dark_nature_10",
       "title": "Nightfall",
       "category": "dark_nature",
       "author": "AI",
-      "thumb": "catalog/dark_nature/thumbs/dark_nature_09.webp",
-      "regular": "catalog/dark_nature/preview/dark_nature_09.webp",
-      "full": "catalog/dark_nature/dark_nature_09.png"
+      "thumb": "catalog/dark_nature/thumbs/dark_nature_10.webp",
+      "regular": "catalog/dark_nature/preview/dark_nature_10.webp",
+      "full": "catalog/dark_nature/dark_nature_10.png"
     },
     {
-      "id": "abstract_gradient_06",
+      "id": "abstract_gradient_15",
       "title": "Flow",
       "category": "abstract_gradient",
       "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_06.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_06.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_06.png"
+      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_15.webp",
+      "regular": "catalog/abstract_gradient/preview/abstract_gradient_15.webp",
+      "full": "catalog/abstract_gradient/abstract_gradient_15.png"
     },
     {
-      "id": "ocean_water_08",
+      "id": "ocean_water_18",
       "title": "Tides",
       "category": "ocean_water",
       "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_08.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_08.webp",
-      "full": "catalog/ocean_water/ocean_water_08.png"
+      "thumb": "catalog/ocean_water/thumbs/ocean_water_18.webp",
+      "regular": "catalog/ocean_water/preview/ocean_water_18.webp",
+      "full": "catalog/ocean_water/ocean_water_18.png"
     },
     {
-      "id": "beach_tropical_19",
+      "id": "beach_tropical_13",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_19.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_19.webp",
-      "full": "catalog/beach_tropical/beach_tropical_19.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_13.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_13.webp",
+      "full": "catalog/beach_tropical/beach_tropical_13.png"
     },
     {
       "id": "black_hole_06",
@@ -1132,22 +1132,22 @@
       "full": "catalog/black_hole/black_hole_06.png"
     },
     {
-      "id": "old_money_c12",
+      "id": "old_money_c10",
       "title": "Quiet Luxury",
       "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_c12.webp",
-      "regular": "catalog/old_money/preview/old_money_c12.webp",
-      "full": "catalog/old_money/old_money_c12.png"
+      "thumb": "catalog/old_money/thumbs/old_money_c10.webp",
+      "regular": "catalog/old_money/preview/old_money_c10.webp",
+      "full": "catalog/old_money/old_money_c10.png"
     },
     {
-      "id": "dark_aesthetic_c10",
+      "id": "dark_aesthetic_c09",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c10.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c10.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c10.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c09.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c09.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c09.png"
     },
     {
       "id": "lux_abstract_c07",
@@ -1159,13 +1159,13 @@
       "full": "catalog/lux_abstract/lux_abstract_c07.png"
     },
     {
-      "id": "city_skyline_c14",
+      "id": "clouds",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_c14.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_c14.webp",
-      "full": "catalog/city_skyline/city_skyline_c14.png"
+      "thumb": "catalog/city_skyline/thumbs/clouds.webp",
+      "regular": "catalog/city_skyline/preview/clouds.webp",
+      "full": "catalog/city_skyline/clouds.png"
     },
     {
       "id": "locked_in_c08",
@@ -1186,49 +1186,49 @@
       "full": "catalog/devoted/devoted_03.png"
     },
     {
-      "id": "nature_landscape_11",
+      "id": "nature_landscape_23",
       "title": "Wilderness",
       "category": "nature_landscape",
       "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_11.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_11.webp",
-      "full": "catalog/nature_landscape/nature_landscape_11.png"
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_23.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_23.webp",
+      "full": "catalog/nature_landscape/nature_landscape_23.png"
     },
     {
-      "id": "dark_nature_03",
+      "id": "dark_nature_04",
       "title": "Nightfall",
       "category": "dark_nature",
       "author": "AI",
-      "thumb": "catalog/dark_nature/thumbs/dark_nature_03.webp",
-      "regular": "catalog/dark_nature/preview/dark_nature_03.webp",
-      "full": "catalog/dark_nature/dark_nature_03.png"
+      "thumb": "catalog/dark_nature/thumbs/dark_nature_04.webp",
+      "regular": "catalog/dark_nature/preview/dark_nature_04.webp",
+      "full": "catalog/dark_nature/dark_nature_04.png"
     },
     {
-      "id": "abstract_gradient_01",
+      "id": "abstract_gradient_05",
       "title": "Flow",
       "category": "abstract_gradient",
       "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_01.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_01.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_01.png"
+      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_05.webp",
+      "regular": "catalog/abstract_gradient/preview/abstract_gradient_05.webp",
+      "full": "catalog/abstract_gradient/abstract_gradient_05.png"
     },
     {
-      "id": "ocean_water_19",
+      "id": "ocean_water_03",
       "title": "Tides",
       "category": "ocean_water",
       "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_19.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_19.webp",
-      "full": "catalog/ocean_water/ocean_water_19.png"
+      "thumb": "catalog/ocean_water/thumbs/ocean_water_03.webp",
+      "regular": "catalog/ocean_water/preview/ocean_water_03.webp",
+      "full": "catalog/ocean_water/ocean_water_03.png"
     },
     {
-      "id": "beach_tropical_17",
+      "id": "beach_tropical_08",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_17.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_17.webp",
-      "full": "catalog/beach_tropical/beach_tropical_17.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_08.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_08.webp",
+      "full": "catalog/beach_tropical/beach_tropical_08.png"
     },
     {
       "id": "black_hole_01",
@@ -1240,13 +1240,13 @@
       "full": "catalog/black_hole/black_hole_01.png"
     },
     {
-      "id": "old_money_c08",
+      "id": "old_money_c09",
       "title": "Quiet Luxury",
       "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_c08.webp",
-      "regular": "catalog/old_money/preview/old_money_c08.webp",
-      "full": "catalog/old_money/old_money_c08.png"
+      "thumb": "catalog/old_money/thumbs/old_money_c09.webp",
+      "regular": "catalog/old_money/preview/old_money_c09.webp",
+      "full": "catalog/old_money/old_money_c09.png"
     },
     {
       "id": "dark_aesthetic_c16",
@@ -1258,22 +1258,22 @@
       "full": "catalog/dark_aesthetic/dark_aesthetic_c16.png"
     },
     {
-      "id": "lux_abstract_c02",
+      "id": "lux_abstract_c01",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c02.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_c02.webp",
-      "full": "catalog/lux_abstract/lux_abstract_c02.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c01.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_c01.webp",
+      "full": "catalog/lux_abstract/lux_abstract_c01.png"
     },
     {
-      "id": "city_skyline_16",
+      "id": "city_skyline_17",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_16.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_16.webp",
-      "full": "catalog/city_skyline/city_skyline_16.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_17.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_17.webp",
+      "full": "catalog/city_skyline/city_skyline_17.png"
     },
     {
       "id": "locked_in_c03",
@@ -1294,49 +1294,40 @@
       "full": "catalog/devoted/devoted_08.png"
     },
     {
-      "id": "nature_landscape_02",
+      "id": "nature_landscape_11",
       "title": "Wilderness",
       "category": "nature_landscape",
       "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_02.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_02.webp",
-      "full": "catalog/nature_landscape/nature_landscape_02.png"
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_11.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_11.webp",
+      "full": "catalog/nature_landscape/nature_landscape_11.png"
     },
     {
-      "id": "dark_nature_12",
-      "title": "Nightfall",
-      "category": "dark_nature",
-      "author": "AI",
-      "thumb": "catalog/dark_nature/thumbs/dark_nature_12.webp",
-      "regular": "catalog/dark_nature/preview/dark_nature_12.webp",
-      "full": "catalog/dark_nature/dark_nature_12.png"
-    },
-    {
-      "id": "abstract_gradient_21",
+      "id": "abstract_gradient_23",
       "title": "Flow",
       "category": "abstract_gradient",
       "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_21.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_21.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_21.png"
+      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_23.webp",
+      "regular": "catalog/abstract_gradient/preview/abstract_gradient_23.webp",
+      "full": "catalog/abstract_gradient/abstract_gradient_23.png"
     },
     {
-      "id": "ocean_water_13",
+      "id": "ocean_water_14",
       "title": "Tides",
       "category": "ocean_water",
       "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_13.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_13.webp",
-      "full": "catalog/ocean_water/ocean_water_13.png"
+      "thumb": "catalog/ocean_water/thumbs/ocean_water_14.webp",
+      "regular": "catalog/ocean_water/preview/ocean_water_14.webp",
+      "full": "catalog/ocean_water/ocean_water_14.png"
     },
     {
-      "id": "beach_tropical_21",
+      "id": "beach_tropical_19",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_21.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_21.webp",
-      "full": "catalog/beach_tropical/beach_tropical_21.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_19.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_19.webp",
+      "full": "catalog/beach_tropical/beach_tropical_19.png"
     },
     {
       "id": "old_money_c02",
@@ -1348,31 +1339,31 @@
       "full": "catalog/old_money/old_money_c02.png"
     },
     {
-      "id": "dark_aesthetic_c13",
+      "id": "dark_aesthetic_c12",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c13.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c13.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c13.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c12.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c12.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c12.png"
     },
     {
-      "id": "lux_abstract_04",
+      "id": "lux_abstract_03",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_04.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_04.webp",
-      "full": "catalog/lux_abstract/lux_abstract_04.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_03.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_03.webp",
+      "full": "catalog/lux_abstract/lux_abstract_03.png"
     },
     {
-      "id": "city_skyline_20",
+      "id": "city_skyline_21",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_20.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_20.webp",
-      "full": "catalog/city_skyline/city_skyline_20.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_21.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_21.webp",
+      "full": "catalog/city_skyline/city_skyline_21.png"
     },
     {
       "id": "locked_in_c04",
@@ -1384,76 +1375,76 @@
       "full": "catalog/locked_in/locked_in_c04.png"
     },
     {
-      "id": "nature_landscape_12",
+      "id": "nature_landscape_22",
       "title": "Wilderness",
       "category": "nature_landscape",
       "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_12.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_12.webp",
-      "full": "catalog/nature_landscape/nature_landscape_12.png"
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_22.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_22.webp",
+      "full": "catalog/nature_landscape/nature_landscape_22.png"
     },
     {
-      "id": "abstract_gradient_22",
+      "id": "abstract_gradient_11",
       "title": "Flow",
       "category": "abstract_gradient",
       "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_22.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_22.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_22.png"
+      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_11.webp",
+      "regular": "catalog/abstract_gradient/preview/abstract_gradient_11.webp",
+      "full": "catalog/abstract_gradient/abstract_gradient_11.png"
     },
     {
-      "id": "ocean_water_12",
+      "id": "ocean_water_17",
       "title": "Tides",
       "category": "ocean_water",
       "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_12.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_12.webp",
-      "full": "catalog/ocean_water/ocean_water_12.png"
+      "thumb": "catalog/ocean_water/thumbs/ocean_water_17.webp",
+      "regular": "catalog/ocean_water/preview/ocean_water_17.webp",
+      "full": "catalog/ocean_water/ocean_water_17.png"
     },
     {
-      "id": "beach_tropical_08",
+      "id": "beach_tropical_21",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_08.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_08.webp",
-      "full": "catalog/beach_tropical/beach_tropical_08.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_21.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_21.webp",
+      "full": "catalog/beach_tropical/beach_tropical_21.png"
     },
     {
-      "id": "old_money_04",
+      "id": "old_money_c19",
       "title": "Quiet Luxury",
       "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_04.webp",
-      "regular": "catalog/old_money/preview/old_money_04.webp",
-      "full": "catalog/old_money/old_money_04.png"
+      "thumb": "catalog/old_money/thumbs/old_money_c19.webp",
+      "regular": "catalog/old_money/preview/old_money_c19.webp",
+      "full": "catalog/old_money/old_money_c19.png"
     },
     {
-      "id": "dark_aesthetic_c01",
+      "id": "dark_aesthetic_12",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c01.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c01.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c01.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_12.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_12.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_12.png"
     },
     {
-      "id": "lux_abstract_10",
+      "id": "lux_abstract_09",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_10.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_10.webp",
-      "full": "catalog/lux_abstract/lux_abstract_10.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_09.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_09.webp",
+      "full": "catalog/lux_abstract/lux_abstract_09.png"
     },
     {
-      "id": "city_skyline_c11",
+      "id": "city_skyline_c12",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_c11.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_c11.webp",
-      "full": "catalog/city_skyline/city_skyline_c11.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_c12.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_c12.webp",
+      "full": "catalog/city_skyline/city_skyline_c12.png"
     },
     {
       "id": "locked_in_c06",
@@ -1465,76 +1456,76 @@
       "full": "catalog/locked_in/locked_in_c06.png"
     },
     {
-      "id": "nature_landscape_15",
+      "id": "nature_landscape_21",
       "title": "Wilderness",
       "category": "nature_landscape",
       "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_15.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_15.webp",
-      "full": "catalog/nature_landscape/nature_landscape_15.png"
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_21.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_21.webp",
+      "full": "catalog/nature_landscape/nature_landscape_21.png"
     },
     {
-      "id": "abstract_gradient_13",
+      "id": "abstract_gradient_02",
       "title": "Flow",
       "category": "abstract_gradient",
       "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_13.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_13.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_13.png"
+      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_02.webp",
+      "regular": "catalog/abstract_gradient/preview/abstract_gradient_02.webp",
+      "full": "catalog/abstract_gradient/abstract_gradient_02.png"
     },
     {
-      "id": "ocean_water_24",
+      "id": "ocean_water_23",
       "title": "Tides",
       "category": "ocean_water",
       "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_24.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_24.webp",
-      "full": "catalog/ocean_water/ocean_water_24.png"
+      "thumb": "catalog/ocean_water/thumbs/ocean_water_23.webp",
+      "regular": "catalog/ocean_water/preview/ocean_water_23.webp",
+      "full": "catalog/ocean_water/ocean_water_23.png"
     },
     {
-      "id": "beach_tropical_04",
+      "id": "beach_tropical_03",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_04.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_04.webp",
-      "full": "catalog/beach_tropical/beach_tropical_04.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_03.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_03.webp",
+      "full": "catalog/beach_tropical/beach_tropical_03.png"
     },
     {
-      "id": "old_money_c04",
+      "id": "old_money_c03",
       "title": "Quiet Luxury",
       "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_c04.webp",
-      "regular": "catalog/old_money/preview/old_money_c04.webp",
-      "full": "catalog/old_money/old_money_c04.png"
+      "thumb": "catalog/old_money/thumbs/old_money_c03.webp",
+      "regular": "catalog/old_money/preview/old_money_c03.webp",
+      "full": "catalog/old_money/old_money_c03.png"
     },
     {
-      "id": "dark_aesthetic_c04",
+      "id": "dark_aesthetic_c03",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c04.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c04.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c04.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c03.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c03.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c03.png"
     },
     {
-      "id": "lux_abstract_c05",
+      "id": "lux_abstract_c04",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c05.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_c05.webp",
-      "full": "catalog/lux_abstract/lux_abstract_c05.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c04.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_c04.webp",
+      "full": "catalog/lux_abstract/lux_abstract_c04.png"
     },
     {
-      "id": "city_skyline_c03",
+      "id": "city_skyline_c04",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_c03.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_c03.webp",
-      "full": "catalog/city_skyline/city_skyline_c03.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_c04.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_c04.webp",
+      "full": "catalog/city_skyline/city_skyline_c04.png"
     },
     {
       "id": "locked_in_06",
@@ -1555,58 +1546,40 @@
       "full": "catalog/nature_landscape/nature_landscape_w03.png"
     },
     {
-      "id": "abstract_gradient_02",
-      "title": "Flow",
-      "category": "abstract_gradient",
-      "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_02.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_02.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_02.png"
-    },
-    {
-      "id": "ocean_water_22",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_22.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_22.webp",
-      "full": "catalog/ocean_water/ocean_water_22.png"
-    },
-    {
-      "id": "beach_tropical_15",
+      "id": "beach_tropical_14",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_15.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_15.webp",
-      "full": "catalog/beach_tropical/beach_tropical_15.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_14.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_14.webp",
+      "full": "catalog/beach_tropical/beach_tropical_14.png"
     },
     {
-      "id": "old_money_c17",
+      "id": "old_money_c21",
       "title": "Quiet Luxury",
       "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_c17.webp",
-      "regular": "catalog/old_money/preview/old_money_c17.webp",
-      "full": "catalog/old_money/old_money_c17.png"
+      "thumb": "catalog/old_money/thumbs/old_money_c21.webp",
+      "regular": "catalog/old_money/preview/old_money_c21.webp",
+      "full": "catalog/old_money/old_money_c21.png"
     },
     {
-      "id": "dark_aesthetic_10",
+      "id": "dark_aesthetic_09",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_10.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_10.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_10.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_09.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_09.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_09.png"
     },
     {
-      "id": "lux_abstract_01",
+      "id": "abstract",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_01.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_01.webp",
-      "full": "catalog/lux_abstract/lux_abstract_01.png"
+      "thumb": "catalog/lux_abstract/thumbs/abstract.webp",
+      "regular": "catalog/lux_abstract/preview/abstract.webp",
+      "full": "catalog/lux_abstract/abstract.png"
     },
     {
       "id": "city_skyline_07",
@@ -1627,112 +1600,13 @@
       "full": "catalog/locked_in/locked_in_07.png"
     },
     {
-      "id": "nature_landscape_06",
+      "id": "nature_landscape_05",
       "title": "Wilderness",
       "category": "nature_landscape",
       "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_06.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_06.webp",
-      "full": "catalog/nature_landscape/nature_landscape_06.png"
-    },
-    {
-      "id": "abstract_gradient_w01",
-      "title": "Flow",
-      "category": "abstract_gradient",
-      "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_w01.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_w01.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_w01.png"
-    },
-    {
-      "id": "ocean_water_10",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_10.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_10.webp",
-      "full": "catalog/ocean_water/ocean_water_10.png"
-    },
-    {
-      "id": "beach_tropical_16",
-      "title": "Paradise",
-      "category": "beach_tropical",
-      "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_16.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_16.webp",
-      "full": "catalog/beach_tropical/beach_tropical_16.png"
-    },
-    {
-      "id": "old_money_08",
-      "title": "Quiet Luxury",
-      "category": "old_money",
-      "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_08.webp",
-      "regular": "catalog/old_money/preview/old_money_08.webp",
-      "full": "catalog/old_money/old_money_08.png"
-    },
-    {
-      "id": "dark_aesthetic_07",
-      "title": "After Dark",
-      "category": "dark_aesthetic",
-      "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_07.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_07.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_07.png"
-    },
-    {
-      "id": "lux_abstract_c12",
-      "title": "Liquid Luxe",
-      "category": "lux_abstract",
-      "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c12.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_c12.webp",
-      "full": "catalog/lux_abstract/lux_abstract_c12.png"
-    },
-    {
-      "id": "city_skyline_c10",
-      "title": "Metropolis",
-      "category": "city_skyline",
-      "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_c10.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_c10.webp",
-      "full": "catalog/city_skyline/city_skyline_c10.png"
-    },
-    {
-      "id": "locked_in_12",
-      "title": "Discipline",
-      "category": "locked_in",
-      "author": "AI",
-      "thumb": "catalog/locked_in/thumbs/locked_in_12.webp",
-      "regular": "catalog/locked_in/preview/locked_in_12.webp",
-      "full": "catalog/locked_in/locked_in_12.png"
-    },
-    {
-      "id": "nature_landscape_w05",
-      "title": "Wilderness",
-      "category": "nature_landscape",
-      "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_w05.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_w05.webp",
-      "full": "catalog/nature_landscape/nature_landscape_w05.png"
-    },
-    {
-      "id": "abstract_gradient_10",
-      "title": "Flow",
-      "category": "abstract_gradient",
-      "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_10.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_10.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_10.png"
-    },
-    {
-      "id": "ocean_water_11",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_11.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_11.webp",
-      "full": "catalog/ocean_water/ocean_water_11.png"
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_05.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_05.webp",
+      "full": "catalog/nature_landscape/nature_landscape_05.png"
     },
     {
       "id": "beach_tropical_09",
@@ -1744,301 +1618,13 @@
       "full": "catalog/beach_tropical/beach_tropical_09.png"
     },
     {
-      "id": "old_money_c09",
+      "id": "old_money_c08",
       "title": "Quiet Luxury",
       "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_c09.webp",
-      "regular": "catalog/old_money/preview/old_money_c09.webp",
-      "full": "catalog/old_money/old_money_c09.png"
-    },
-    {
-      "id": "dark_aesthetic_c06",
-      "title": "After Dark",
-      "category": "dark_aesthetic",
-      "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c06.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c06.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c06.png"
-    },
-    {
-      "id": "lux_abstract_c16",
-      "title": "Liquid Luxe",
-      "category": "lux_abstract",
-      "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c16.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_c16.webp",
-      "full": "catalog/lux_abstract/lux_abstract_c16.png"
-    },
-    {
-      "id": "city_skyline_c06",
-      "title": "Metropolis",
-      "category": "city_skyline",
-      "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_c06.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_c06.webp",
-      "full": "catalog/city_skyline/city_skyline_c06.png"
-    },
-    {
-      "id": "nature_landscape_19",
-      "title": "Wilderness",
-      "category": "nature_landscape",
-      "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_19.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_19.webp",
-      "full": "catalog/nature_landscape/nature_landscape_19.png"
-    },
-    {
-      "id": "abstract_gradient_23",
-      "title": "Flow",
-      "category": "abstract_gradient",
-      "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_23.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_23.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_23.png"
-    },
-    {
-      "id": "ocean_water_06",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_06.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_06.webp",
-      "full": "catalog/ocean_water/ocean_water_06.png"
-    },
-    {
-      "id": "beach_tropical_02",
-      "title": "Paradise",
-      "category": "beach_tropical",
-      "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_02.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_02.webp",
-      "full": "catalog/beach_tropical/beach_tropical_02.png"
-    },
-    {
-      "id": "old_money_11",
-      "title": "Quiet Luxury",
-      "category": "old_money",
-      "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_11.webp",
-      "regular": "catalog/old_money/preview/old_money_11.webp",
-      "full": "catalog/old_money/old_money_11.png"
-    },
-    {
-      "id": "dark_aesthetic_11",
-      "title": "After Dark",
-      "category": "dark_aesthetic",
-      "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_11.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_11.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_11.png"
-    },
-    {
-      "id": "lux_abstract_11",
-      "title": "Liquid Luxe",
-      "category": "lux_abstract",
-      "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_11.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_11.webp",
-      "full": "catalog/lux_abstract/lux_abstract_11.png"
-    },
-    {
-      "id": "city_skyline_c08",
-      "title": "Metropolis",
-      "category": "city_skyline",
-      "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_c08.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_c08.webp",
-      "full": "catalog/city_skyline/city_skyline_c08.png"
-    },
-    {
-      "id": "nature_landscape_08",
-      "title": "Wilderness",
-      "category": "nature_landscape",
-      "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_08.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_08.webp",
-      "full": "catalog/nature_landscape/nature_landscape_08.png"
-    },
-    {
-      "id": "abstract_gradient_03",
-      "title": "Flow",
-      "category": "abstract_gradient",
-      "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_03.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_03.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_03.png"
-    },
-    {
-      "id": "ocean_water_01",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_01.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_01.webp",
-      "full": "catalog/ocean_water/ocean_water_01.png"
-    },
-    {
-      "id": "beach_tropical_12",
-      "title": "Paradise",
-      "category": "beach_tropical",
-      "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_12.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_12.webp",
-      "full": "catalog/beach_tropical/beach_tropical_12.png"
-    },
-    {
-      "id": "old_money_12",
-      "title": "Quiet Luxury",
-      "category": "old_money",
-      "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_12.webp",
-      "regular": "catalog/old_money/preview/old_money_12.webp",
-      "full": "catalog/old_money/old_money_12.png"
-    },
-    {
-      "id": "dark_aesthetic_c03",
-      "title": "After Dark",
-      "category": "dark_aesthetic",
-      "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c03.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c03.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c03.png"
-    },
-    {
-      "id": "lux_abstract_c06",
-      "title": "Liquid Luxe",
-      "category": "lux_abstract",
-      "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c06.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_c06.webp",
-      "full": "catalog/lux_abstract/lux_abstract_c06.png"
-    },
-    {
-      "id": "city_skyline_01",
-      "title": "Metropolis",
-      "category": "city_skyline",
-      "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_01.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_01.webp",
-      "full": "catalog/city_skyline/city_skyline_01.png"
-    },
-    {
-      "id": "nature_landscape_03",
-      "title": "Wilderness",
-      "category": "nature_landscape",
-      "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_03.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_03.webp",
-      "full": "catalog/nature_landscape/nature_landscape_03.png"
-    },
-    {
-      "id": "abstract_gradient_16",
-      "title": "Flow",
-      "category": "abstract_gradient",
-      "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_16.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_16.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_16.png"
-    },
-    {
-      "id": "ocean_water_09",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_09.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_09.webp",
-      "full": "catalog/ocean_water/ocean_water_09.png"
-    },
-    {
-      "id": "beach_tropical_01",
-      "title": "Paradise",
-      "category": "beach_tropical",
-      "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_01.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_01.webp",
-      "full": "catalog/beach_tropical/beach_tropical_01.png"
-    },
-    {
-      "id": "old_money_01",
-      "title": "Quiet Luxury",
-      "category": "old_money",
-      "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_01.webp",
-      "regular": "catalog/old_money/preview/old_money_01.webp",
-      "full": "catalog/old_money/old_money_01.png"
-    },
-    {
-      "id": "dark_aesthetic_02",
-      "title": "After Dark",
-      "category": "dark_aesthetic",
-      "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_02.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_02.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_02.png"
-    },
-    {
-      "id": "lux_abstract_06",
-      "title": "Liquid Luxe",
-      "category": "lux_abstract",
-      "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_06.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_06.webp",
-      "full": "catalog/lux_abstract/lux_abstract_06.png"
-    },
-    {
-      "id": "city_skyline_14",
-      "title": "Metropolis",
-      "category": "city_skyline",
-      "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_14.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_14.webp",
-      "full": "catalog/city_skyline/city_skyline_14.png"
-    },
-    {
-      "id": "nature_landscape_23",
-      "title": "Wilderness",
-      "category": "nature_landscape",
-      "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_23.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_23.webp",
-      "full": "catalog/nature_landscape/nature_landscape_23.png"
-    },
-    {
-      "id": "abstract_gradient_11",
-      "title": "Flow",
-      "category": "abstract_gradient",
-      "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_11.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_11.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_11.png"
-    },
-    {
-      "id": "ocean_water_15",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_15.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_15.webp",
-      "full": "catalog/ocean_water/ocean_water_15.png"
-    },
-    {
-      "id": "beach_tropical_24",
-      "title": "Paradise",
-      "category": "beach_tropical",
-      "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_24.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_24.webp",
-      "full": "catalog/beach_tropical/beach_tropical_24.png"
-    },
-    {
-      "id": "old_money_06",
-      "title": "Quiet Luxury",
-      "category": "old_money",
-      "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_06.webp",
-      "regular": "catalog/old_money/preview/old_money_06.webp",
-      "full": "catalog/old_money/old_money_06.png"
+      "thumb": "catalog/old_money/thumbs/old_money_c08.webp",
+      "regular": "catalog/old_money/preview/old_money_c08.webp",
+      "full": "catalog/old_money/old_money_c08.png"
     },
     {
       "id": "dark_aesthetic_06",
@@ -2050,49 +1636,40 @@
       "full": "catalog/dark_aesthetic/dark_aesthetic_06.png"
     },
     {
-      "id": "lux_abstract_09",
+      "id": "lux_abstract_c13",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_09.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_09.webp",
-      "full": "catalog/lux_abstract/lux_abstract_09.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c13.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_c13.webp",
+      "full": "catalog/lux_abstract/lux_abstract_c13.png"
     },
     {
-      "id": "city_skyline_05",
+      "id": "city_skyline_c11",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_05.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_05.webp",
-      "full": "catalog/city_skyline/city_skyline_05.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_c11.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_c11.webp",
+      "full": "catalog/city_skyline/city_skyline_c11.png"
     },
     {
-      "id": "nature_landscape_09",
+      "id": "locked_in_12",
+      "title": "Discipline",
+      "category": "locked_in",
+      "author": "AI",
+      "thumb": "catalog/locked_in/thumbs/locked_in_12.webp",
+      "regular": "catalog/locked_in/preview/locked_in_12.webp",
+      "full": "catalog/locked_in/locked_in_12.png"
+    },
+    {
+      "id": "nature_landscape_14",
       "title": "Wilderness",
       "category": "nature_landscape",
       "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_09.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_09.webp",
-      "full": "catalog/nature_landscape/nature_landscape_09.png"
-    },
-    {
-      "id": "abstract_gradient_18",
-      "title": "Flow",
-      "category": "abstract_gradient",
-      "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_18.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_18.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_18.png"
-    },
-    {
-      "id": "ocean_water_04",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_04.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_04.webp",
-      "full": "catalog/ocean_water/ocean_water_04.png"
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_14.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_14.webp",
+      "full": "catalog/nature_landscape/nature_landscape_14.png"
     },
     {
       "id": "beach_tropical_06",
@@ -2104,85 +1681,13 @@
       "full": "catalog/beach_tropical/beach_tropical_06.png"
     },
     {
-      "id": "old_money_c15",
+      "id": "old_money_11",
       "title": "Quiet Luxury",
       "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_c15.webp",
-      "regular": "catalog/old_money/preview/old_money_c15.webp",
-      "full": "catalog/old_money/old_money_c15.png"
-    },
-    {
-      "id": "dark_aesthetic_04",
-      "title": "After Dark",
-      "category": "dark_aesthetic",
-      "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_04.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_04.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_04.png"
-    },
-    {
-      "id": "lux_abstract_c11",
-      "title": "Liquid Luxe",
-      "category": "lux_abstract",
-      "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c11.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_c11.webp",
-      "full": "catalog/lux_abstract/lux_abstract_c11.png"
-    },
-    {
-      "id": "city_skyline_18",
-      "title": "Metropolis",
-      "category": "city_skyline",
-      "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_18.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_18.webp",
-      "full": "catalog/city_skyline/city_skyline_18.png"
-    },
-    {
-      "id": "nature_landscape_24",
-      "title": "Wilderness",
-      "category": "nature_landscape",
-      "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_24.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_24.webp",
-      "full": "catalog/nature_landscape/nature_landscape_24.png"
-    },
-    {
-      "id": "abstract_gradient_08",
-      "title": "Flow",
-      "category": "abstract_gradient",
-      "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_08.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_08.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_08.png"
-    },
-    {
-      "id": "ocean_water_16",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_16.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_16.webp",
-      "full": "catalog/ocean_water/ocean_water_16.png"
-    },
-    {
-      "id": "beach_tropical_03",
-      "title": "Paradise",
-      "category": "beach_tropical",
-      "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_03.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_03.webp",
-      "full": "catalog/beach_tropical/beach_tropical_03.png"
-    },
-    {
-      "id": "old_money_07",
-      "title": "Quiet Luxury",
-      "category": "old_money",
-      "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_07.webp",
-      "regular": "catalog/old_money/preview/old_money_07.webp",
-      "full": "catalog/old_money/old_money_07.png"
+      "thumb": "catalog/old_money/thumbs/old_money_11.webp",
+      "regular": "catalog/old_money/preview/old_money_11.webp",
+      "full": "catalog/old_money/old_money_11.png"
     },
     {
       "id": "dark_aesthetic_c05",
@@ -2194,58 +1699,256 @@
       "full": "catalog/dark_aesthetic/dark_aesthetic_c05.png"
     },
     {
-      "id": "lux_abstract_c10",
+      "id": "lux_abstract_c18",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c10.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_c10.webp",
-      "full": "catalog/lux_abstract/lux_abstract_c10.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c18.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_c18.webp",
+      "full": "catalog/lux_abstract/lux_abstract_c18.png"
     },
     {
-      "id": "city_skyline_c12",
+      "id": "city_skyline_c07",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_c12.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_c12.webp",
-      "full": "catalog/city_skyline/city_skyline_c12.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_c07.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_c07.webp",
+      "full": "catalog/city_skyline/city_skyline_c07.png"
     },
     {
-      "id": "nature_landscape_18",
+      "id": "nature_landscape_w02",
       "title": "Wilderness",
       "category": "nature_landscape",
       "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_18.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_18.webp",
-      "full": "catalog/nature_landscape/nature_landscape_18.png"
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_w02.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_w02.webp",
+      "full": "catalog/nature_landscape/nature_landscape_w02.png"
     },
     {
-      "id": "abstract_gradient_12",
-      "title": "Flow",
-      "category": "abstract_gradient",
+      "id": "old_money_12",
+      "title": "Quiet Luxury",
+      "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_12.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_12.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_12.png"
+      "thumb": "catalog/old_money/thumbs/old_money_12.webp",
+      "regular": "catalog/old_money/preview/old_money_12.webp",
+      "full": "catalog/old_money/old_money_12.png"
     },
     {
-      "id": "ocean_water_21",
-      "title": "Tides",
-      "category": "ocean_water",
+      "id": "dark_aesthetic_10",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_21.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_21.webp",
-      "full": "catalog/ocean_water/ocean_water_21.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_10.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_10.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_10.png"
     },
     {
-      "id": "beach_tropical_18",
-      "title": "Paradise",
-      "category": "beach_tropical",
+      "id": "lux_abstract_10",
+      "title": "Liquid Luxe",
+      "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_18.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_18.webp",
-      "full": "catalog/beach_tropical/beach_tropical_18.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_10.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_10.webp",
+      "full": "catalog/lux_abstract/lux_abstract_10.png"
+    },
+    {
+      "id": "city_skyline_c09",
+      "title": "Metropolis",
+      "category": "city_skyline",
+      "author": "AI",
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_c09.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_c09.webp",
+      "full": "catalog/city_skyline/city_skyline_c09.png"
+    },
+    {
+      "id": "nature_landscape_w01",
+      "title": "Wilderness",
+      "category": "nature_landscape",
+      "author": "AI",
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_w01.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_w01.webp",
+      "full": "catalog/nature_landscape/nature_landscape_w01.png"
+    },
+    {
+      "id": "old_money_01",
+      "title": "Quiet Luxury",
+      "category": "old_money",
+      "author": "AI",
+      "thumb": "catalog/old_money/thumbs/old_money_01.webp",
+      "regular": "catalog/old_money/preview/old_money_01.webp",
+      "full": "catalog/old_money/old_money_01.png"
+    },
+    {
+      "id": "dark_aesthetic_c02",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c02.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c02.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c02.png"
+    },
+    {
+      "id": "lux_abstract_c05",
+      "title": "Liquid Luxe",
+      "category": "lux_abstract",
+      "author": "AI",
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c05.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_c05.webp",
+      "full": "catalog/lux_abstract/lux_abstract_c05.png"
+    },
+    {
+      "id": "city_skyline_01",
+      "title": "Metropolis",
+      "category": "city_skyline",
+      "author": "AI",
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_01.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_01.webp",
+      "full": "catalog/city_skyline/city_skyline_01.png"
+    },
+    {
+      "id": "nature_landscape_w05",
+      "title": "Wilderness",
+      "category": "nature_landscape",
+      "author": "AI",
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_w05.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_w05.webp",
+      "full": "catalog/nature_landscape/nature_landscape_w05.png"
+    },
+    {
+      "id": "old_money_06",
+      "title": "Quiet Luxury",
+      "category": "old_money",
+      "author": "AI",
+      "thumb": "catalog/old_money/thumbs/old_money_06.webp",
+      "regular": "catalog/old_money/preview/old_money_06.webp",
+      "full": "catalog/old_money/old_money_06.png"
+    },
+    {
+      "id": "dark_aesthetic_01",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_01.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_01.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_01.png"
+    },
+    {
+      "id": "lux_abstract_05",
+      "title": "Liquid Luxe",
+      "category": "lux_abstract",
+      "author": "AI",
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_05.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_05.webp",
+      "full": "catalog/lux_abstract/lux_abstract_05.png"
+    },
+    {
+      "id": "city_skyline_15",
+      "title": "Metropolis",
+      "category": "city_skyline",
+      "author": "AI",
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_15.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_15.webp",
+      "full": "catalog/city_skyline/city_skyline_15.png"
+    },
+    {
+      "id": "nature_landscape_07",
+      "title": "Wilderness",
+      "category": "nature_landscape",
+      "author": "AI",
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_07.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_07.webp",
+      "full": "catalog/nature_landscape/nature_landscape_07.png"
+    },
+    {
+      "id": "old_money_c15",
+      "title": "Quiet Luxury",
+      "category": "old_money",
+      "author": "AI",
+      "thumb": "catalog/old_money/thumbs/old_money_c15.webp",
+      "regular": "catalog/old_money/preview/old_money_c15.webp",
+      "full": "catalog/old_money/old_money_c15.png"
+    },
+    {
+      "id": "dark_aesthetic_05",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_05.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_05.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_05.png"
+    },
+    {
+      "id": "lux_abstract_08",
+      "title": "Liquid Luxe",
+      "category": "lux_abstract",
+      "author": "AI",
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_08.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_08.webp",
+      "full": "catalog/lux_abstract/lux_abstract_08.png"
+    },
+    {
+      "id": "city_skyline_05",
+      "title": "Metropolis",
+      "category": "city_skyline",
+      "author": "AI",
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_05.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_05.webp",
+      "full": "catalog/city_skyline/city_skyline_05.png"
+    },
+    {
+      "id": "nature_landscape_06",
+      "title": "Wilderness",
+      "category": "nature_landscape",
+      "author": "AI",
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_06.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_06.webp",
+      "full": "catalog/nature_landscape/nature_landscape_06.png"
+    },
+    {
+      "id": "old_money_07",
+      "title": "Quiet Luxury",
+      "category": "old_money",
+      "author": "AI",
+      "thumb": "catalog/old_money/thumbs/old_money_07.webp",
+      "regular": "catalog/old_money/preview/old_money_07.webp",
+      "full": "catalog/old_money/old_money_07.png"
+    },
+    {
+      "id": "dark_aesthetic_03",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_03.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_03.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_03.png"
+    },
+    {
+      "id": "lux_abstract_c12",
+      "title": "Liquid Luxe",
+      "category": "lux_abstract",
+      "author": "AI",
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c12.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_c12.webp",
+      "full": "catalog/lux_abstract/lux_abstract_c12.png"
+    },
+    {
+      "id": "city_skyline_19",
+      "title": "Metropolis",
+      "category": "city_skyline",
+      "author": "AI",
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_19.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_19.webp",
+      "full": "catalog/city_skyline/city_skyline_19.png"
+    },
+    {
+      "id": "nature_landscape_20",
+      "title": "Wilderness",
+      "category": "nature_landscape",
+      "author": "AI",
+      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_20.webp",
+      "regular": "catalog/nature_landscape/preview/nature_landscape_20.webp",
+      "full": "catalog/nature_landscape/nature_landscape_20.png"
     },
     {
       "id": "old_money_c22",
@@ -2255,6 +1958,42 @@
       "thumb": "catalog/old_money/thumbs/old_money_c22.webp",
       "regular": "catalog/old_money/preview/old_money_c22.webp",
       "full": "catalog/old_money/old_money_c22.png"
+    },
+    {
+      "id": "dark_aesthetic_c04",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c04.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c04.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c04.png"
+    },
+    {
+      "id": "lux_abstract_c10",
+      "title": "Liquid Luxe",
+      "category": "lux_abstract",
+      "author": "AI",
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c10.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_c10.webp",
+      "full": "catalog/lux_abstract/lux_abstract_c10.png"
+    },
+    {
+      "id": "city_skyline_c13",
+      "title": "Metropolis",
+      "category": "city_skyline",
+      "author": "AI",
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_c13.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_c13.webp",
+      "full": "catalog/city_skyline/city_skyline_c13.png"
+    },
+    {
+      "id": "old_money_c06",
+      "title": "Quiet Luxury",
+      "category": "old_money",
+      "author": "AI",
+      "thumb": "catalog/old_money/thumbs/old_money_c06.webp",
+      "regular": "catalog/old_money/preview/old_money_c06.webp",
+      "full": "catalog/old_money/old_money_c06.png"
     },
     {
       "id": "dark_aesthetic_c15",
@@ -2275,76 +2014,13 @@
       "full": "catalog/lux_abstract/lux_abstract_c09.png"
     },
     {
-      "id": "city_skyline_c05",
+      "id": "city_skyline_c06",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_c05.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_c05.webp",
-      "full": "catalog/city_skyline/city_skyline_c05.png"
-    },
-    {
-      "id": "nature_landscape_w04",
-      "title": "Wilderness",
-      "category": "nature_landscape",
-      "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_w04.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_w04.webp",
-      "full": "catalog/nature_landscape/nature_landscape_w04.png"
-    },
-    {
-      "id": "abstract_gradient_04",
-      "title": "Flow",
-      "category": "abstract_gradient",
-      "author": "AI",
-      "thumb": "catalog/abstract_gradient/thumbs/abstract_gradient_04.webp",
-      "regular": "catalog/abstract_gradient/preview/abstract_gradient_04.webp",
-      "full": "catalog/abstract_gradient/abstract_gradient_04.png"
-    },
-    {
-      "id": "old_money_c06",
-      "title": "Quiet Luxury",
-      "category": "old_money",
-      "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_c06.webp",
-      "regular": "catalog/old_money/preview/old_money_c06.webp",
-      "full": "catalog/old_money/old_money_c06.png"
-    },
-    {
-      "id": "dark_aesthetic_c11",
-      "title": "After Dark",
-      "category": "dark_aesthetic",
-      "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c11.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c11.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c11.png"
-    },
-    {
-      "id": "lux_abstract_c18",
-      "title": "Liquid Luxe",
-      "category": "lux_abstract",
-      "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c18.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_c18.webp",
-      "full": "catalog/lux_abstract/lux_abstract_c18.png"
-    },
-    {
-      "id": "city_skyline_15",
-      "title": "Metropolis",
-      "category": "city_skyline",
-      "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_15.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_15.webp",
-      "full": "catalog/city_skyline/city_skyline_15.png"
-    },
-    {
-      "id": "nature_landscape_05",
-      "title": "Wilderness",
-      "category": "nature_landscape",
-      "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_05.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_05.webp",
-      "full": "catalog/nature_landscape/nature_landscape_05.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_c06.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_c06.webp",
+      "full": "catalog/city_skyline/city_skyline_c06.png"
     },
     {
       "id": "old_money_c05",
@@ -2356,40 +2032,31 @@
       "full": "catalog/old_money/old_money_c05.png"
     },
     {
-      "id": "dark_aesthetic_08",
+      "id": "dark_aesthetic_c10",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_08.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_08.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_08.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c10.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c10.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c10.png"
     },
     {
-      "id": "lux_abstract_c15",
+      "id": "lux_abstract_c16",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c15.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_c15.webp",
-      "full": "catalog/lux_abstract/lux_abstract_c15.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c16.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_c16.webp",
+      "full": "catalog/lux_abstract/lux_abstract_c16.png"
     },
     {
-      "id": "city_skyline_10",
+      "id": "city_skyline_16",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_10.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_10.webp",
-      "full": "catalog/city_skyline/city_skyline_10.png"
-    },
-    {
-      "id": "nature_landscape_22",
-      "title": "Wilderness",
-      "category": "nature_landscape",
-      "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_22.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_22.webp",
-      "full": "catalog/nature_landscape/nature_landscape_22.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_16.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_16.webp",
+      "full": "catalog/city_skyline/city_skyline_16.png"
     },
     {
       "id": "old_money_c20",
@@ -2401,40 +2068,31 @@
       "full": "catalog/old_money/old_money_c20.png"
     },
     {
-      "id": "dark_aesthetic_12",
+      "id": "dark_aesthetic_07",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_12.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_12.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_12.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_07.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_07.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_07.png"
     },
     {
-      "id": "lux_abstract_c17",
+      "id": "lux_abstract_02",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c17.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_c17.webp",
-      "full": "catalog/lux_abstract/lux_abstract_c17.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_02.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_02.webp",
+      "full": "catalog/lux_abstract/lux_abstract_02.png"
     },
     {
-      "id": "city_skyline_c01",
+      "id": "city_skyline_10",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_c01.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_c01.webp",
-      "full": "catalog/city_skyline/city_skyline_c01.png"
-    },
-    {
-      "id": "nature_landscape_04",
-      "title": "Wilderness",
-      "category": "nature_landscape",
-      "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_04.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_04.webp",
-      "full": "catalog/nature_landscape/nature_landscape_04.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_10.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_10.webp",
+      "full": "catalog/city_skyline/city_skyline_10.png"
     },
     {
       "id": "old_money_03",
@@ -2446,58 +2104,49 @@
       "full": "catalog/old_money/old_money_03.png"
     },
     {
-      "id": "lux_abstract_03",
+      "id": "dark_aesthetic_11",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_11.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_11.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_11.png"
+    },
+    {
+      "id": "lux_abstract_c15",
       "title": "Liquid Luxe",
       "category": "lux_abstract",
       "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_03.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_03.webp",
-      "full": "catalog/lux_abstract/lux_abstract_03.png"
+      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c15.webp",
+      "regular": "catalog/lux_abstract/preview/lux_abstract_c15.webp",
+      "full": "catalog/lux_abstract/lux_abstract_c15.png"
     },
     {
-      "id": "city_skyline_17",
+      "id": "city_skyline_c02",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_17.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_17.webp",
-      "full": "catalog/city_skyline/city_skyline_17.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_c02.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_c02.webp",
+      "full": "catalog/city_skyline/city_skyline_c02.png"
     },
     {
-      "id": "nature_landscape_13",
-      "title": "Wilderness",
-      "category": "nature_landscape",
-      "author": "AI",
-      "thumb": "catalog/nature_landscape/thumbs/nature_landscape_13.webp",
-      "regular": "catalog/nature_landscape/preview/nature_landscape_13.webp",
-      "full": "catalog/nature_landscape/nature_landscape_13.png"
-    },
-    {
-      "id": "old_money_c16",
+      "id": "old_money_c17",
       "title": "Quiet Luxury",
       "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_c16.webp",
-      "regular": "catalog/old_money/preview/old_money_c16.webp",
-      "full": "catalog/old_money/old_money_c16.png"
+      "thumb": "catalog/old_money/thumbs/old_money_c17.webp",
+      "regular": "catalog/old_money/preview/old_money_c17.webp",
+      "full": "catalog/old_money/old_money_c17.png"
     },
     {
-      "id": "lux_abstract_c14",
-      "title": "Liquid Luxe",
-      "category": "lux_abstract",
-      "author": "AI",
-      "thumb": "catalog/lux_abstract/thumbs/lux_abstract_c14.webp",
-      "regular": "catalog/lux_abstract/preview/lux_abstract_c14.webp",
-      "full": "catalog/lux_abstract/lux_abstract_c14.png"
-    },
-    {
-      "id": "city_skyline_13",
+      "id": "city_skyline_18",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_13.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_13.webp",
-      "full": "catalog/city_skyline/city_skyline_13.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_18.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_18.webp",
+      "full": "catalog/city_skyline/city_skyline_18.png"
     },
     {
       "id": "old_money_c07",
@@ -2509,31 +2158,31 @@
       "full": "catalog/old_money/old_money_c07.png"
     },
     {
-      "id": "city_skyline_c09",
+      "id": "city_skyline_14",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_c09.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_c09.webp",
-      "full": "catalog/city_skyline/city_skyline_c09.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_14.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_14.webp",
+      "full": "catalog/city_skyline/city_skyline_14.png"
     },
     {
-      "id": "old_money_c03",
+      "id": "old_money_08",
       "title": "Quiet Luxury",
       "category": "old_money",
       "author": "AI",
-      "thumb": "catalog/old_money/thumbs/old_money_c03.webp",
-      "regular": "catalog/old_money/preview/old_money_c03.webp",
-      "full": "catalog/old_money/old_money_c03.png"
+      "thumb": "catalog/old_money/thumbs/old_money_08.webp",
+      "regular": "catalog/old_money/preview/old_money_08.webp",
+      "full": "catalog/old_money/old_money_08.png"
     },
     {
-      "id": "city_skyline_04",
+      "id": "city_skyline_c10",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_04.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_04.webp",
-      "full": "catalog/city_skyline/city_skyline_04.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_c10.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_c10.webp",
+      "full": "catalog/city_skyline/city_skyline_c10.png"
     },
     {
       "id": "old_money_09",
@@ -2545,13 +2194,22 @@
       "full": "catalog/old_money/old_money_09.png"
     },
     {
-      "id": "city_skyline_c04",
+      "id": "city_skyline_04",
       "title": "Metropolis",
       "category": "city_skyline",
       "author": "AI",
-      "thumb": "catalog/city_skyline/thumbs/city_skyline_c04.webp",
-      "regular": "catalog/city_skyline/preview/city_skyline_c04.webp",
-      "full": "catalog/city_skyline/city_skyline_c04.png"
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_04.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_04.webp",
+      "full": "catalog/city_skyline/city_skyline_04.png"
+    },
+    {
+      "id": "city_skyline_c05",
+      "title": "Metropolis",
+      "category": "city_skyline",
+      "author": "AI",
+      "thumb": "catalog/city_skyline/thumbs/city_skyline_c05.webp",
+      "regular": "catalog/city_skyline/preview/city_skyline_c05.webp",
+      "full": "catalog/city_skyline/city_skyline_c05.png"
     },
     {
       "id": "city_skyline_02",
