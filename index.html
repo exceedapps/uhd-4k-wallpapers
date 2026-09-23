@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MONARQ: 4K Wallpapers</title>
+<meta name="description" content="Curated dark aesthetic 4K wallpapers for iPhone.">
+<style>
+  :root { color-scheme: dark; --accent:#2FD9C7; --text:#ececef; --muted:#9a9aa2; --card:#111113; --line:#232327; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:#000; color:var(--text); font:16px/1.65 -apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,sans-serif; -webkit-font-smoothing:antialiased; }
+  .aurora { position:fixed; inset:0 0 auto 0; height:420px; pointer-events:none; z-index:0;
+    background:
+      radial-gradient(60% 70% at 18% 20%, rgba(47,217,199,.40), transparent 70%),
+      radial-gradient(50% 60% at 85% 15%, rgba(99,242,226,.30), transparent 70%),
+      radial-gradient(70% 50% at 50% 55%, rgba(18,168,154,.28), transparent 70%);
+    -webkit-mask-image:linear-gradient(#000 30%, transparent); mask-image:linear-gradient(#000 30%, transparent);
+    animation: drift 18s ease-in-out infinite alternate; }
+  @keyframes drift { from { transform:translate3d(-2%,0,0) scale(1); } to { transform:translate3d(2%,2%,0) scale(1.06); } }
+  @media (prefers-reduced-motion: reduce) { .aurora { animation:none; } }
+  .wrap { position:relative; z-index:1; max-width:760px; margin:0 auto; padding:48px 20px 80px; }
+  .brand { font-family:"New York",Georgia,"Times New Roman",serif; font-weight:700; font-size:22px; letter-spacing:3px; color:#fff; text-decoration:none; }
+  .brand small { display:block; font:500 10px/1.4 -apple-system,sans-serif; letter-spacing:3px; color:rgba(255,255,255,.45); }
+  nav { display:flex; flex-wrap:wrap; gap:8px; margin:22px 0 34px; }
+  nav a { color:#fff; text-decoration:none; font-size:14px; font-weight:600; padding:8px 14px; border-radius:999px;
+    background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.12); backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px); }
+  nav a[aria-current="page"] { background:#fff; color:#000; }
+  h1 { font-size:36px; line-height:1.15; margin:0 0 6px; letter-spacing:-.5px; }
+  h2 { font-size:19px; margin:34px 0 8px; }
+  h3 { font-size:16px; margin:18px 0 4px; }
+  a { color:var(--accent); }
+  .muted { color:var(--muted); font-size:14px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:18px; padding:18px 20px; margin:14px 0; }
+  table { width:100%; border-collapse:collapse; font-size:14px; margin:10px 0; }
+  th, td { text-align:left; padding:10px 8px; border-bottom:1px solid var(--line); vertical-align:top; }
+  th { color:var(--muted); font-weight:600; }
+  ul { padding-left:20px; }
+  li { margin:4px 0; }
+  .btn { display:inline-block; background:#fff; color:#000; text-decoration:none; font-weight:700; padding:13px 22px; border-radius:999px; margin:6px 0; }
+  footer { margin-top:56px; padding-top:18px; border-top:1px solid var(--line); color:var(--muted); font-size:13px; }
+</style>
+</head>
+<body>
+<div class="aurora" aria-hidden="true"></div>
+<div class="wrap">
+<a class="brand" href="index.html">MONARQ<small>4K WALLPAPERS</small></a>
+<nav>
+  <a href="support.html" >Support</a>
+  <a href="privacy.html" >Privacy Policy</a>
+  <a href="terms.html" >Terms of Use</a>
+</nav>
+<h1>MONARQ: 4K Wallpapers</h1>
+<p style="font-size:18px;color:#cfcfd4;max-width:560px">A hand-curated collection of dark, aesthetic 4K wallpapers for iPhone —
+old money, moody nature, lux abstract, city nights and more. New wallpapers arrive regularly.</p>
+<div class="card">
+  <ul style="margin:0">
+    <li>Wallpaper of the Day and fresh collections every week</li>
+    <li>Pixel-perfect 4K originals, saved straight to Photos</li>
+    <li>Lock Screen preview and a Home Screen widget</li>
+    <li>No account, no subscriptions, no banner ads</li>
+  </ul>
+</div>
+<p><a class="btn" href="support.html">Help &amp; Support</a></p>
+<p class="muted"><a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Use</a> ·
+<a href="mailto:exceedapp.info@gmail.com">exceedapp.info@gmail.com</a></p>
+<footer>
+  © 2026 Exceed Apps · MONARQ: 4K Wallpapers ·
+  <a href="support.html">Support</a> · <a href="privacy.html">Privacy</a> · <a href="terms.html">Terms</a> ·
+  <a href="mailto:exceedapp.info@gmail.com">exceedapp.info@gmail.com</a>
+</footer>
+</div>
+</body>
+</html>

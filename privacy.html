@@ -3,54 +3,141 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>MONARQ Wallpapers — Privacy Policy</title>
+<title>Privacy Policy — MONARQ</title>
+<meta name="description" content="How MONARQ: 4K Wallpapers handles your data.">
 <style>
-  :root { color-scheme: dark; }
-  body { margin:0; background:#000; color:#e8e8ea; font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; }
-  .wrap { max-width:720px; margin:0 auto; padding:40px 22px 80px; }
-  h1 { font-family:Georgia,"Times New Roman",serif; font-size:34px; letter-spacing:1px; margin:0 0 4px; }
-  .kick { color:#F0B429; font:12px/1 ui-monospace,SFMono-Regular,Menlo,monospace; letter-spacing:3px; text-transform:uppercase; }
-  h2 { color:#F0B429; font-size:18px; margin:34px 0 8px; }
-  a { color:#F0B429; }
-  .muted { color:#9a9aa2; font-size:14px; }
-  hr { border:0; border-top:1px solid #F0B42955; margin:18px 0; }
+  :root { color-scheme: dark; --accent:#2FD9C7; --text:#ececef; --muted:#9a9aa2; --card:#111113; --line:#232327; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:#000; color:var(--text); font:16px/1.65 -apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,sans-serif; -webkit-font-smoothing:antialiased; }
+  .aurora { position:fixed; inset:0 0 auto 0; height:420px; pointer-events:none; z-index:0;
+    background:
+      radial-gradient(60% 70% at 18% 20%, rgba(47,217,199,.40), transparent 70%),
+      radial-gradient(50% 60% at 85% 15%, rgba(99,242,226,.30), transparent 70%),
+      radial-gradient(70% 50% at 50% 55%, rgba(18,168,154,.28), transparent 70%);
+    -webkit-mask-image:linear-gradient(#000 30%, transparent); mask-image:linear-gradient(#000 30%, transparent);
+    animation: drift 18s ease-in-out infinite alternate; }
+  @keyframes drift { from { transform:translate3d(-2%,0,0) scale(1); } to { transform:translate3d(2%,2%,0) scale(1.06); } }
+  @media (prefers-reduced-motion: reduce) { .aurora { animation:none; } }
+  .wrap { position:relative; z-index:1; max-width:760px; margin:0 auto; padding:48px 20px 80px; }
+  .brand { font-family:"New York",Georgia,"Times New Roman",serif; font-weight:700; font-size:22px; letter-spacing:3px; color:#fff; text-decoration:none; }
+  .brand small { display:block; font:500 10px/1.4 -apple-system,sans-serif; letter-spacing:3px; color:rgba(255,255,255,.45); }
+  nav { display:flex; flex-wrap:wrap; gap:8px; margin:22px 0 34px; }
+  nav a { color:#fff; text-decoration:none; font-size:14px; font-weight:600; padding:8px 14px; border-radius:999px;
+    background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.12); backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px); }
+  nav a[aria-current="page"] { background:#fff; color:#000; }
+  h1 { font-size:36px; line-height:1.15; margin:0 0 6px; letter-spacing:-.5px; }
+  h2 { font-size:19px; margin:34px 0 8px; }
+  h3 { font-size:16px; margin:18px 0 4px; }
+  a { color:var(--accent); }
+  .muted { color:var(--muted); font-size:14px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:18px; padding:18px 20px; margin:14px 0; }
+  table { width:100%; border-collapse:collapse; font-size:14px; margin:10px 0; }
+  th, td { text-align:left; padding:10px 8px; border-bottom:1px solid var(--line); vertical-align:top; }
+  th { color:var(--muted); font-weight:600; }
+  ul { padding-left:20px; }
+  li { margin:4px 0; }
+  .btn { display:inline-block; background:#fff; color:#000; text-decoration:none; font-weight:700; padding:13px 22px; border-radius:999px; margin:6px 0; }
+  footer { margin-top:56px; padding-top:18px; border-top:1px solid var(--line); color:var(--muted); font-size:13px; }
 </style>
 </head>
 <body>
+<div class="aurora" aria-hidden="true"></div>
 <div class="wrap">
-  <div class="kick">Privacy Policy</div>
-  <h1>MONARQ Wallpapers</h1>
-  <p class="muted">Last updated: 17 September 2026</p>
-  <hr>
+<a class="brand" href="index.html">MONARQ<small>4K WALLPAPERS</small></a>
+<nav>
+  <a href="support.html" >Support</a>
+  <a href="privacy.html" aria-current="page">Privacy Policy</a>
+  <a href="terms.html" >Terms of Use</a>
+</nav>
+<h1>Privacy Policy</h1>
+<p class="muted">Effective 23 September 2026 · applies to the MONARQ: 4K Wallpapers app for iPhone and its Home Screen widget.</p>
 
-  <p>MONARQ Wallpapers ("the App") is a wallpaper gallery. This policy explains what data
-  is handled when you use the App. We keep it minimal.</p>
+<div class="card">
+<strong>In short:</strong> MONARQ has no accounts and we don't collect your personal data. Your favourites stay on your
+device. The only data processing is by Google AdMob, when you choose to watch an optional video to unlock a 4K
+download — and only as far as you allow through Apple's App Tracking Transparency prompt and (in the EEA/UK/Switzerland)
+the consent form.
+</div>
 
-  <h2>Information we do NOT collect</h2>
-  <p>We do not require an account. We do not collect your name, email, contacts, photos, or
-  location for our own use. Your favourites are stored only on your device.</p>
+<h2>1. Who we are</h2>
+<p>MONARQ is published by Exceed Apps ("we", "us"). For anything about privacy, contact
+<a href="mailto:exceedapp.info@gmail.com">exceedapp.info@gmail.com</a>.</p>
 
-  <h2>Advertising</h2>
-  <p>The App shows an optional rewarded video ad only when you choose to unlock a 4K download.
-  There are no banner ads. Ads are provided by <strong>Google AdMob</strong>. To serve and
-  measure ads, Google may process device identifiers and app-interaction data. See Google's
-  policy: <a href="https://policies.google.com/technologies/ads">policies.google.com/technologies/ads</a>.</p>
+<h2>2. Data we do not collect</h2>
+<p>We do not ask you to sign up and we do not collect your name, email address, contacts, location, photos or browsing
+history. We have no servers that store information about you, and we do not sell personal data.</p>
 
-  <h2>Tracking &amp; your choices</h2>
-  <p>On first launch the App asks for App Tracking Transparency permission and, in the EEA/UK,
-  presents a consent form (Google UMP). You can decline. You can change your ad-consent choice
-  any time from <em>Settings › Privacy &amp; Ad Choices</em> in the App, and your tracking
-  choice from the iOS <em>Settings › Privacy &amp; Security › Tracking</em>.</p>
+<h2>3. Data stored only on your device</h2>
+<ul>
+  <li><strong>Favourites and app preferences</strong> (for example, whether you've seen the introduction) are kept in the
+  app's local storage on your iPhone. They never leave your device and are deleted when you delete the app.</li>
+  <li><strong>Image cache.</strong> Wallpapers you view are cached on your device so they load instantly next time.</li>
+</ul>
 
-  <h2>Wallpaper content</h2>
-  <p>Wallpapers are delivered from our content server (jsDelivr / GitHub). Loading an image
-  makes a standard web request; no personal data is attached.</p>
+<h2>4. Photos</h2>
+<p>When you tap <em>Save to Photos</em>, iOS asks for permission to <strong>add</strong> images to your Photos library.
+MONARQ only writes the wallpaper you chose; it cannot see, read or upload any of your existing photos.</p>
 
-  <h2>Children</h2>
-  <p>The App is not directed at children under 13 and does not knowingly collect their data.</p>
+<h2>5. Advertising (Google AdMob)</h2>
+<p>Saving in Standard quality is always free and shows no ad. If you choose <em>Highest Quality · 4K</em>, you can watch a
+short rewarded video provided by Google AdMob (Google LLC / Google Ireland Ltd.). There are no banner or pop-up ads.
+To show, measure and prevent fraud in ads, the Google Mobile Ads SDK may process:</p>
+<table>
+  <tr><th>Data</th><th>Purpose</th><th>Linked to you?</th></tr>
+  <tr><td>Device identifiers — the Advertising Identifier (IDFA) <em>only if you allow tracking</em>, and the vendor identifier (IDFV)</td><td>Third-party advertising, frequency capping, fraud prevention</td><td>No</td></tr>
+  <tr><td>Product interaction (ad views, taps, rewards)</td><td>Advertising, analytics</td><td>No</td></tr>
+  <tr><td>Approximate location derived from IP address</td><td>Ad relevance, legal compliance</td><td>No</td></tr>
+  <tr><td>Diagnostics (crash and performance data of the ad SDK)</td><td>Analytics, reliability</td><td>No</td></tr>
+</table>
+<p>Google processes this data under its own policies:
+<a href="https://policies.google.com/privacy">Google Privacy Policy</a> ·
+<a href="https://policies.google.com/technologies/partner-sites">How Google uses information from apps that use its services</a>.</p>
 
-  <h2>Contact</h2>
-  <p>Questions? Email <a href="mailto:exceedapp.info@gmail.com">exceedapp.info@gmail.com</a>.</p>
+<h2>6. Your choices</h2>
+<ul>
+  <li><strong>App Tracking Transparency.</strong> On first launch iOS asks whether MONARQ may track you. If you choose
+  <em>Ask App Not to Track</em>, the IDFA is not shared and ads are non-personalised. Change it any time in
+  iOS <em>Settings › Privacy &amp; Security › Tracking</em>.</li>
+  <li><strong>Consent (EEA, UK, Switzerland).</strong> A Google consent form lets you accept or refuse personalised ads.
+  You can change your choice at any time in the app under <em>Settings › Privacy &amp; Ad Choices</em>.</li>
+  <li><strong>Don't want ads at all?</strong> Use Standard quality — it never shows an ad.</li>
+</ul>
+
+<h2>7. Wallpaper delivery</h2>
+<p>Wallpapers and the catalogue are downloaded from content-delivery networks (jsDelivr and GitHub Pages). Like any website,
+these providers receive your IP address and device type to deliver the files; we do not receive or combine that
+information. See the <a href="https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net">jsDelivr</a> and
+<a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub</a> privacy statements.</p>
+
+<h2>8. Home Screen widget</h2>
+<p>The widget downloads the same public catalogue to show a rotating wallpaper. It collects no data and shows no ads.</p>
+
+<h2>9. Your rights</h2>
+<p>Depending on where you live (for example under the GDPR/UK GDPR or US state laws such as the CCPA/CPRA), you may have
+the right to access, delete, correct or restrict processing of your personal data, to object, and to opt out of
+"sharing" for cross-context behavioural advertising. Because we hold no personal data about you, most requests are
+handled by the controls above (tracking choice, consent choice, deleting the app). For data processed by Google, see
+<a href="https://myadcenter.google.com/">My Ad Center</a>. You can always write to us and we will help, and you may
+lodge a complaint with your local data-protection authority.</p>
+
+<h2>10. Children</h2>
+<p>MONARQ is suitable for all ages but is not directed at children under 13, and we do not knowingly collect personal
+data from children. Ads are requested as non-personalised where required.</p>
+
+<h2>11. Retention &amp; security</h2>
+<p>We keep no personal data. On-device data remains until you delete the app. All network connections use HTTPS.</p>
+
+<h2>12. Changes</h2>
+<p>If this policy changes we will update this page and its effective date. Material changes will be highlighted in the
+app's release notes.</p>
+
+<h2>13. Contact</h2>
+<p>Exceed Apps · <a href="mailto:exceedapp.info@gmail.com">exceedapp.info@gmail.com</a></p>
+<footer>
+  © 2026 Exceed Apps · MONARQ: 4K Wallpapers ·
+  <a href="support.html">Support</a> · <a href="privacy.html">Privacy</a> · <a href="terms.html">Terms</a> ·
+  <a href="mailto:exceedapp.info@gmail.com">exceedapp.info@gmail.com</a>
+</footer>
 </div>
 </body>
 </html>
