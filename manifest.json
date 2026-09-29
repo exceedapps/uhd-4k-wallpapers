@@ -10,6 +10,10 @@
       "name": "Aesthetic"
     },
     {
+      "id": "cars",
+      "name": "Cars"
+    },
+    {
       "id": "animals",
       "name": "Animals"
     },
@@ -68,6 +72,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_01.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_01.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_01.png"
+    },
+    {
+      "id": "cars_new_b7_01",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_01.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_01.webp",
+      "full": "catalog/cars/cars_new_b7_01.png"
     },
     {
       "id": "animals_new_b6_01",
@@ -151,13 +164,13 @@
       "full": "catalog/ocean_water/ocean_water_new_b4_01.png"
     },
     {
-      "id": "beach_tropical_20",
+      "id": "beach_tropical_08",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_20.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_20.webp",
-      "full": "catalog/beach_tropical/beach_tropical_20.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_08.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_08.webp",
+      "full": "catalog/beach_tropical/beach_tropical_08.png"
     },
     {
       "id": "old_money_c01",
@@ -176,6 +189,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_02.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_02.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_02.png"
+    },
+    {
+      "id": "cars_new_b7_02",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_02.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_02.webp",
+      "full": "catalog/cars/cars_new_b7_02.png"
     },
     {
       "id": "animals_new_b6_02",
@@ -259,13 +281,13 @@
       "full": "catalog/ocean_water/ocean_water_13.png"
     },
     {
-      "id": "beach_tropical_22",
+      "id": "beach_tropical_18",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_22.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_22.webp",
-      "full": "catalog/beach_tropical/beach_tropical_22.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_18.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_18.webp",
+      "full": "catalog/beach_tropical/beach_tropical_18.png"
     },
     {
       "id": "old_money_b1_07",
@@ -284,6 +306,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_03.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_03.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_03.png"
+    },
+    {
+      "id": "cars_new_b7_03",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_03.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_03.webp",
+      "full": "catalog/cars/cars_new_b7_03.png"
     },
     {
       "id": "animals_new_b6_03",
@@ -367,13 +398,13 @@
       "full": "catalog/ocean_water/ocean_water_10.png"
     },
     {
-      "id": "beach_tropical_05",
+      "id": "beach_tropical_22",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_05.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_05.webp",
-      "full": "catalog/beach_tropical/beach_tropical_05.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_22.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_22.webp",
+      "full": "catalog/beach_tropical/beach_tropical_22.png"
     },
     {
       "id": "old_money_b1_02",
@@ -392,6 +423,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_04.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_04.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_04.png"
+    },
+    {
+      "id": "cars_new_b7_04",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_04.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_04.webp",
+      "full": "catalog/cars/cars_new_b7_04.png"
     },
     {
       "id": "animals_new_b6_04",
@@ -475,13 +515,13 @@
       "full": "catalog/ocean_water/ocean_water_06.png"
     },
     {
-      "id": "beach_tropical_18",
+      "id": "beach_tropical_21",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_18.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_18.webp",
-      "full": "catalog/beach_tropical/beach_tropical_18.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_21.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_21.webp",
+      "full": "catalog/beach_tropical/beach_tropical_21.png"
     },
     {
       "id": "old_money_b1_08",
@@ -500,6 +540,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_05.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_05.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_05.png"
+    },
+    {
+      "id": "cars_new_b7_05",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_05.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_05.webp",
+      "full": "catalog/cars/cars_new_b7_05.png"
     },
     {
       "id": "animals_new_b6_05",
@@ -583,13 +632,13 @@
       "full": "catalog/ocean_water/ocean_water_15.png"
     },
     {
-      "id": "beach_tropical_10",
+      "id": "beach_tropical_07",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_10.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_10.webp",
-      "full": "catalog/beach_tropical/beach_tropical_10.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_07.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_07.webp",
+      "full": "catalog/beach_tropical/beach_tropical_07.png"
     },
     {
       "id": "old_money_b1_14",
@@ -608,6 +657,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_06.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_06.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_06.png"
+    },
+    {
+      "id": "cars_new_b7_06",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_06.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_06.webp",
+      "full": "catalog/cars/cars_new_b7_06.png"
     },
     {
       "id": "animals_new_b6_06",
@@ -691,13 +749,13 @@
       "full": "catalog/ocean_water/ocean_water_17.png"
     },
     {
-      "id": "beach_tropical_16",
+      "id": "beach_tropical_06",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_16.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_16.webp",
-      "full": "catalog/beach_tropical/beach_tropical_16.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_06.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_06.webp",
+      "full": "catalog/beach_tropical/beach_tropical_06.png"
     },
     {
       "id": "old_money_c02",
@@ -716,6 +774,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_07.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_07.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_07.png"
+    },
+    {
+      "id": "cars_new_b7_07",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_07.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_07.webp",
+      "full": "catalog/cars/cars_new_b7_07.png"
     },
     {
       "id": "animals_new_b6_07",
@@ -799,13 +866,13 @@
       "full": "catalog/ocean_water/ocean_water_03.png"
     },
     {
-      "id": "beach_tropical_17",
+      "id": "beach_tropical_20",
       "title": "Paradise",
       "category": "beach_tropical",
       "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_17.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_17.webp",
-      "full": "catalog/beach_tropical/beach_tropical_17.png"
+      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_20.webp",
+      "regular": "catalog/beach_tropical/preview/beach_tropical_20.webp",
+      "full": "catalog/beach_tropical/beach_tropical_20.png"
     },
     {
       "id": "old_money_10",
@@ -824,6 +891,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_08.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_08.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_08.png"
+    },
+    {
+      "id": "cars_new_b7_08",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_08.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_08.webp",
+      "full": "catalog/cars/cars_new_b7_08.png"
     },
     {
       "id": "animals_new_b6_08",
@@ -907,15 +983,6 @@
       "full": "catalog/ocean_water/ocean_water_05.png"
     },
     {
-      "id": "beach_tropical_15",
-      "title": "Paradise",
-      "category": "beach_tropical",
-      "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_15.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_15.webp",
-      "full": "catalog/beach_tropical/beach_tropical_15.png"
-    },
-    {
       "id": "old_money_c06",
       "title": "Quiet Luxury",
       "category": "old_money",
@@ -932,6 +999,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_09.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_09.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_09.png"
+    },
+    {
+      "id": "cars_new_b7_09",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_09.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_09.webp",
+      "full": "catalog/cars/cars_new_b7_09.png"
     },
     {
       "id": "animals_new_b6_09",
@@ -1015,15 +1091,6 @@
       "full": "catalog/ocean_water/ocean_water_18.png"
     },
     {
-      "id": "beach_tropical_07",
-      "title": "Paradise",
-      "category": "beach_tropical",
-      "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_07.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_07.webp",
-      "full": "catalog/beach_tropical/beach_tropical_07.png"
-    },
-    {
       "id": "old_money_b1_05",
       "title": "Quiet Luxury",
       "category": "old_money",
@@ -1040,6 +1107,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_10.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_10.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_10.png"
+    },
+    {
+      "id": "cars_new_b7_10",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_10.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_10.webp",
+      "full": "catalog/cars/cars_new_b7_10.png"
     },
     {
       "id": "animals_new_b6_10",
@@ -1123,15 +1199,6 @@
       "full": "catalog/ocean_water/ocean_water_04.png"
     },
     {
-      "id": "beach_tropical_13",
-      "title": "Paradise",
-      "category": "beach_tropical",
-      "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_13.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_13.webp",
-      "full": "catalog/beach_tropical/beach_tropical_13.png"
-    },
-    {
       "id": "old_money_c21",
       "title": "Quiet Luxury",
       "category": "old_money",
@@ -1148,6 +1215,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_11.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_11.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_11.png"
+    },
+    {
+      "id": "cars_new_b7_11",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_11.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_11.webp",
+      "full": "catalog/cars/cars_new_b7_11.png"
     },
     {
       "id": "animals_new_b6_11",
@@ -1231,15 +1307,6 @@
       "full": "catalog/ocean_water/ocean_water_16.png"
     },
     {
-      "id": "beach_tropical_08",
-      "title": "Paradise",
-      "category": "beach_tropical",
-      "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_08.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_08.webp",
-      "full": "catalog/beach_tropical/beach_tropical_08.png"
-    },
-    {
       "id": "old_money_b1_04",
       "title": "Quiet Luxury",
       "category": "old_money",
@@ -1256,6 +1323,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_12.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_12.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_12.png"
+    },
+    {
+      "id": "cars_new_b7_12",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_12.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_12.webp",
+      "full": "catalog/cars/cars_new_b7_12.png"
     },
     {
       "id": "animals_new_b6_12",
@@ -1339,15 +1415,6 @@
       "full": "catalog/ocean_water/ocean_water_23.png"
     },
     {
-      "id": "beach_tropical_19",
-      "title": "Paradise",
-      "category": "beach_tropical",
-      "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_19.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_19.webp",
-      "full": "catalog/beach_tropical/beach_tropical_19.png"
-    },
-    {
       "id": "old_money_06",
       "title": "Quiet Luxury",
       "category": "old_money",
@@ -1364,6 +1431,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_13.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_13.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_13.png"
+    },
+    {
+      "id": "cars_new_b7_13",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_13.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_13.webp",
+      "full": "catalog/cars/cars_new_b7_13.png"
     },
     {
       "id": "animals_new_b6_13",
@@ -1438,15 +1514,6 @@
       "full": "catalog/abstract_gradient/abstract_gradient_11.png"
     },
     {
-      "id": "beach_tropical_21",
-      "title": "Paradise",
-      "category": "beach_tropical",
-      "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_21.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_21.webp",
-      "full": "catalog/beach_tropical/beach_tropical_21.png"
-    },
-    {
       "id": "old_money_c22",
       "title": "Quiet Luxury",
       "category": "old_money",
@@ -1463,6 +1530,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_14.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_14.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_14.png"
+    },
+    {
+      "id": "cars_new_b7_14",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_14.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_14.webp",
+      "full": "catalog/cars/cars_new_b7_14.png"
     },
     {
       "id": "animals_new_b6_14",
@@ -1537,15 +1613,6 @@
       "full": "catalog/abstract_gradient/abstract_gradient_02.png"
     },
     {
-      "id": "beach_tropical_03",
-      "title": "Paradise",
-      "category": "beach_tropical",
-      "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_03.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_03.webp",
-      "full": "catalog/beach_tropical/beach_tropical_03.png"
-    },
-    {
       "id": "old_money_c13",
       "title": "Quiet Luxury",
       "category": "old_money",
@@ -1562,6 +1629,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b4_01.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b4_01.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b4_01.png"
+    },
+    {
+      "id": "cars_new_b7_15",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_15.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_15.webp",
+      "full": "catalog/cars/cars_new_b7_15.png"
     },
     {
       "id": "animals_new_b6_15",
@@ -1627,15 +1703,6 @@
       "full": "catalog/dark_nature/dark_nature_new_b2_15.png"
     },
     {
-      "id": "beach_tropical_14",
-      "title": "Paradise",
-      "category": "beach_tropical",
-      "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_14.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_14.webp",
-      "full": "catalog/beach_tropical/beach_tropical_14.png"
-    },
-    {
       "id": "old_money_b1_13",
       "title": "Quiet Luxury",
       "category": "old_money",
@@ -1652,6 +1719,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b4_02.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b4_02.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b4_02.png"
+    },
+    {
+      "id": "cars_new_b7_16",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_16.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_16.webp",
+      "full": "catalog/cars/cars_new_b7_16.png"
     },
     {
       "id": "animals_new_b5_01",
@@ -1708,15 +1784,6 @@
       "full": "catalog/dark_nature/dark_nature_new_b2_16.png"
     },
     {
-      "id": "beach_tropical_09",
-      "title": "Paradise",
-      "category": "beach_tropical",
-      "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_09.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_09.webp",
-      "full": "catalog/beach_tropical/beach_tropical_09.png"
-    },
-    {
       "id": "old_money_c08",
       "title": "Quiet Luxury",
       "category": "old_money",
@@ -1733,6 +1800,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b4_03.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b4_03.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b4_03.png"
+    },
+    {
+      "id": "cars_new_b7_17",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_17.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_17.webp",
+      "full": "catalog/cars/cars_new_b7_17.png"
     },
     {
       "id": "animals_new_b5_02",
@@ -1789,15 +1865,6 @@
       "full": "catalog/dark_nature/dark_nature_new_b2_17.png"
     },
     {
-      "id": "beach_tropical_06",
-      "title": "Paradise",
-      "category": "beach_tropical",
-      "author": "AI",
-      "thumb": "catalog/beach_tropical/thumbs/beach_tropical_06.webp",
-      "regular": "catalog/beach_tropical/preview/beach_tropical_06.webp",
-      "full": "catalog/beach_tropical/beach_tropical_06.png"
-    },
-    {
       "id": "old_money_03",
       "title": "Quiet Luxury",
       "category": "old_money",
@@ -1814,6 +1881,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b4_04.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b4_04.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b4_04.png"
+    },
+    {
+      "id": "cars_new_b7_18",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_18.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_18.webp",
+      "full": "catalog/cars/cars_new_b7_18.png"
     },
     {
       "id": "animals_new_b5_03",
@@ -1886,6 +1962,15 @@
       "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_01.webp",
       "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_01.webp",
       "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_01.png"
+    },
+    {
+      "id": "cars_new_b7_19",
+      "title": "Drive",
+      "category": "cars",
+      "author": "AI",
+      "thumb": "catalog/cars/thumbs/cars_new_b7_19.webp",
+      "regular": "catalog/cars/preview/cars_new_b7_19.webp",
+      "full": "catalog/cars/cars_new_b7_19.png"
     },
     {
       "id": "animals_new_b5_04",
