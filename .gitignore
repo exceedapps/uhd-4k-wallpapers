@@ -5,3 +5,5 @@ inspiration/
 **/.DS_Store
 *.log
 catalog_hold/
+catalog/*/new/
+catalog/*/New/
