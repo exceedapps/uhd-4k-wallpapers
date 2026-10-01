@@ -18,6 +18,10 @@
       "name": "Animals"
     },
     {
+      "id": "memes",
+      "name": "Memes"
+    },
+    {
       "id": "lux_abstract",
       "name": "Lux Abstract"
     },
@@ -46,10 +50,6 @@
       "name": "Abstract"
     },
     {
-      "id": "ocean_water",
-      "name": "Ocean"
-    },
-    {
       "id": "beach_tropical",
       "name": "Beach"
     }
@@ -65,13 +65,13 @@
       "full": "catalog/old_money/old_money_04.png"
     },
     {
-      "id": "dark_aesthetic_new_b8_01",
+      "id": "dark_aesthetic_new_b9_01",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_01.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_01.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_01.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b9_01.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b9_01.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b9_01.png"
     },
     {
       "id": "cars_new_b7_01",
@@ -90,6 +90,15 @@
       "thumb": "catalog/animals/thumbs/animals_new_b6_01.webp",
       "regular": "catalog/animals/preview/animals_new_b6_01.webp",
       "full": "catalog/animals/animals_new_b6_01.png"
+    },
+    {
+      "id": "memes_new_b9_01",
+      "title": "Mood",
+      "category": "memes",
+      "author": "AI",
+      "thumb": "catalog/memes/thumbs/memes_new_b9_01.webp",
+      "regular": "catalog/memes/preview/memes_new_b9_01.webp",
+      "full": "catalog/memes/memes_new_b9_01.png"
     },
     {
       "id": "lux_abstract_new_b4_01",
@@ -155,15 +164,6 @@
       "full": "catalog/abstract_gradient/abstract_gradient_new_b4_01.png"
     },
     {
-      "id": "ocean_water_new_b4_01",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_new_b4_01.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_new_b4_01.webp",
-      "full": "catalog/ocean_water/ocean_water_new_b4_01.png"
-    },
-    {
       "id": "beach_tropical_new_b7_01",
       "title": "Paradise",
       "category": "beach_tropical",
@@ -182,13 +182,13 @@
       "full": "catalog/old_money/old_money_c01.png"
     },
     {
-      "id": "dark_aesthetic_new_b8_02",
+      "id": "dark_aesthetic_new_b9_02",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_02.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_02.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_02.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b9_02.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b9_02.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b9_02.png"
     },
     {
       "id": "cars_new_b7_02",
@@ -207,6 +207,15 @@
       "thumb": "catalog/animals/thumbs/animals_new_b6_02.webp",
       "regular": "catalog/animals/preview/animals_new_b6_02.webp",
       "full": "catalog/animals/animals_new_b6_02.png"
+    },
+    {
+      "id": "memes_new_b9_02",
+      "title": "Mood",
+      "category": "memes",
+      "author": "AI",
+      "thumb": "catalog/memes/thumbs/memes_new_b9_02.webp",
+      "regular": "catalog/memes/preview/memes_new_b9_02.webp",
+      "full": "catalog/memes/memes_new_b9_02.png"
     },
     {
       "id": "lux_abstract_02",
@@ -272,15 +281,6 @@
       "full": "catalog/abstract_gradient/abstract_gradient_18.png"
     },
     {
-      "id": "ocean_water_13",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_13.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_13.webp",
-      "full": "catalog/ocean_water/ocean_water_13.png"
-    },
-    {
       "id": "beach_tropical_new_b7_02",
       "title": "Paradise",
       "category": "beach_tropical",
@@ -299,13 +299,13 @@
       "full": "catalog/old_money/old_money_b1_07.png"
     },
     {
-      "id": "dark_aesthetic_new_b8_03",
+      "id": "dark_aesthetic_new_b9_03",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_03.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_03.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_03.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b9_03.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b9_03.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b9_03.png"
     },
     {
       "id": "cars_new_b7_03",
@@ -324,6 +324,15 @@
       "thumb": "catalog/animals/thumbs/animals_new_b6_03.webp",
       "regular": "catalog/animals/preview/animals_new_b6_03.webp",
       "full": "catalog/animals/animals_new_b6_03.png"
+    },
+    {
+      "id": "memes_new_b9_03",
+      "title": "Mood",
+      "category": "memes",
+      "author": "AI",
+      "thumb": "catalog/memes/thumbs/memes_new_b9_03.webp",
+      "regular": "catalog/memes/preview/memes_new_b9_03.webp",
+      "full": "catalog/memes/memes_new_b9_03.png"
     },
     {
       "id": "lux_abstract_b1_08",
@@ -389,15 +398,6 @@
       "full": "catalog/abstract_gradient/abstract_gradient_23.png"
     },
     {
-      "id": "ocean_water_10",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_10.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_10.webp",
-      "full": "catalog/ocean_water/ocean_water_10.png"
-    },
-    {
       "id": "beach_tropical_new_b7_03",
       "title": "Paradise",
       "category": "beach_tropical",
@@ -416,13 +416,13 @@
       "full": "catalog/old_money/old_money_b1_02.png"
     },
     {
-      "id": "dark_aesthetic_new_b8_04",
+      "id": "dark_aesthetic_new_b9_04",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_04.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_04.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_04.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b9_04.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b9_04.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b9_04.png"
     },
     {
       "id": "cars_new_b7_04",
@@ -441,6 +441,15 @@
       "thumb": "catalog/animals/thumbs/animals_new_b6_04.webp",
       "regular": "catalog/animals/preview/animals_new_b6_04.webp",
       "full": "catalog/animals/animals_new_b6_04.png"
+    },
+    {
+      "id": "memes_new_b9_04",
+      "title": "Mood",
+      "category": "memes",
+      "author": "AI",
+      "thumb": "catalog/memes/thumbs/memes_new_b9_04.webp",
+      "regular": "catalog/memes/preview/memes_new_b9_04.webp",
+      "full": "catalog/memes/memes_new_b9_04.png"
     },
     {
       "id": "lux_abstract_c04",
@@ -506,15 +515,6 @@
       "full": "catalog/abstract_gradient/abstract_gradient_13.png"
     },
     {
-      "id": "ocean_water_06",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_06.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_06.webp",
-      "full": "catalog/ocean_water/ocean_water_06.png"
-    },
-    {
       "id": "beach_tropical_new_b7_04",
       "title": "Paradise",
       "category": "beach_tropical",
@@ -533,13 +533,13 @@
       "full": "catalog/old_money/old_money_b1_08.png"
     },
     {
-      "id": "dark_aesthetic_new_b8_05",
+      "id": "dark_aesthetic_new_b9_05",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_05.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_05.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_05.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b9_05.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b9_05.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b9_05.png"
     },
     {
       "id": "cars_new_b7_05",
@@ -558,6 +558,15 @@
       "thumb": "catalog/animals/thumbs/animals_new_b6_05.webp",
       "regular": "catalog/animals/preview/animals_new_b6_05.webp",
       "full": "catalog/animals/animals_new_b6_05.png"
+    },
+    {
+      "id": "memes_new_b9_05",
+      "title": "Mood",
+      "category": "memes",
+      "author": "AI",
+      "thumb": "catalog/memes/thumbs/memes_new_b9_05.webp",
+      "regular": "catalog/memes/preview/memes_new_b9_05.webp",
+      "full": "catalog/memes/memes_new_b9_05.png"
     },
     {
       "id": "lux_abstract_12",
@@ -623,15 +632,6 @@
       "full": "catalog/abstract_gradient/abstract_gradient_03.png"
     },
     {
-      "id": "ocean_water_15",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_15.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_15.webp",
-      "full": "catalog/ocean_water/ocean_water_15.png"
-    },
-    {
       "id": "beach_tropical_new_b7_05",
       "title": "Paradise",
       "category": "beach_tropical",
@@ -650,13 +650,13 @@
       "full": "catalog/old_money/old_money_b1_14.png"
     },
     {
-      "id": "dark_aesthetic_new_b8_06",
+      "id": "dark_aesthetic_new_b9_06",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_06.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_06.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_06.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b9_06.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b9_06.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b9_06.png"
     },
     {
       "id": "cars_new_b7_06",
@@ -675,6 +675,15 @@
       "thumb": "catalog/animals/thumbs/animals_new_b6_06.webp",
       "regular": "catalog/animals/preview/animals_new_b6_06.webp",
       "full": "catalog/animals/animals_new_b6_06.png"
+    },
+    {
+      "id": "memes_new_b9_06",
+      "title": "Mood",
+      "category": "memes",
+      "author": "AI",
+      "thumb": "catalog/memes/thumbs/memes_new_b9_06.webp",
+      "regular": "catalog/memes/preview/memes_new_b9_06.webp",
+      "full": "catalog/memes/memes_new_b9_06.png"
     },
     {
       "id": "lux_abstract_03",
@@ -740,15 +749,6 @@
       "full": "catalog/abstract_gradient/abstract_gradient_w01.png"
     },
     {
-      "id": "ocean_water_17",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_17.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_17.webp",
-      "full": "catalog/ocean_water/ocean_water_17.png"
-    },
-    {
       "id": "beach_tropical_new_b7_06",
       "title": "Paradise",
       "category": "beach_tropical",
@@ -767,13 +767,13 @@
       "full": "catalog/old_money/old_money_c02.png"
     },
     {
-      "id": "dark_aesthetic_new_b8_07",
+      "id": "dark_aesthetic_new_b9_07",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_07.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_07.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_07.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b9_07.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b9_07.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b9_07.png"
     },
     {
       "id": "cars_new_b7_07",
@@ -792,6 +792,15 @@
       "thumb": "catalog/animals/thumbs/animals_new_b6_07.webp",
       "regular": "catalog/animals/preview/animals_new_b6_07.webp",
       "full": "catalog/animals/animals_new_b6_07.png"
+    },
+    {
+      "id": "memes_new_b9_07",
+      "title": "Mood",
+      "category": "memes",
+      "author": "AI",
+      "thumb": "catalog/memes/thumbs/memes_new_b9_07.webp",
+      "regular": "catalog/memes/preview/memes_new_b9_07.webp",
+      "full": "catalog/memes/memes_new_b9_07.png"
     },
     {
       "id": "lux_abstract_b1_15",
@@ -857,15 +866,6 @@
       "full": "catalog/abstract_gradient/abstract_gradient_06.png"
     },
     {
-      "id": "ocean_water_03",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_03.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_03.webp",
-      "full": "catalog/ocean_water/ocean_water_03.png"
-    },
-    {
       "id": "beach_tropical_new_b7_07",
       "title": "Paradise",
       "category": "beach_tropical",
@@ -884,13 +884,13 @@
       "full": "catalog/old_money/old_money_10.png"
     },
     {
-      "id": "dark_aesthetic_new_b8_08",
+      "id": "dark_aesthetic_new_b9_08",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_08.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_08.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_08.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b9_08.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b9_08.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b9_08.png"
     },
     {
       "id": "cars_new_b7_08",
@@ -909,6 +909,15 @@
       "thumb": "catalog/animals/thumbs/animals_new_b6_08.webp",
       "regular": "catalog/animals/preview/animals_new_b6_08.webp",
       "full": "catalog/animals/animals_new_b6_08.png"
+    },
+    {
+      "id": "memes_new_b9_08",
+      "title": "Mood",
+      "category": "memes",
+      "author": "AI",
+      "thumb": "catalog/memes/thumbs/memes_new_b9_08.webp",
+      "regular": "catalog/memes/preview/memes_new_b9_08.webp",
+      "full": "catalog/memes/memes_new_b9_08.png"
     },
     {
       "id": "lux_abstract_b1_11",
@@ -974,15 +983,6 @@
       "full": "catalog/abstract_gradient/abstract_gradient_01.png"
     },
     {
-      "id": "ocean_water_05",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_05.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_05.webp",
-      "full": "catalog/ocean_water/ocean_water_05.png"
-    },
-    {
       "id": "beach_tropical_new_b7_08",
       "title": "Paradise",
       "category": "beach_tropical",
@@ -1001,13 +1001,13 @@
       "full": "catalog/old_money/old_money_c06.png"
     },
     {
-      "id": "dark_aesthetic_new_b8_09",
+      "id": "dark_aesthetic_new_b9_09",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_09.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_09.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_09.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b9_09.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b9_09.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b9_09.png"
     },
     {
       "id": "cars_new_b7_09",
@@ -1091,15 +1091,6 @@
       "full": "catalog/abstract_gradient/abstract_gradient_15.png"
     },
     {
-      "id": "ocean_water_18",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_18.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_18.webp",
-      "full": "catalog/ocean_water/ocean_water_18.png"
-    },
-    {
       "id": "beach_tropical_new_b7_09",
       "title": "Paradise",
       "category": "beach_tropical",
@@ -1118,13 +1109,13 @@
       "full": "catalog/old_money/old_money_b1_05.png"
     },
     {
-      "id": "dark_aesthetic_new_b8_10",
+      "id": "dark_aesthetic_new_b9_10",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_10.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_10.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_10.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b9_10.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b9_10.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b9_10.png"
     },
     {
       "id": "cars_new_b7_10",
@@ -1208,15 +1199,6 @@
       "full": "catalog/abstract_gradient/abstract_gradient_24.png"
     },
     {
-      "id": "ocean_water_04",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_04.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_04.webp",
-      "full": "catalog/ocean_water/ocean_water_04.png"
-    },
-    {
       "id": "beach_tropical_08",
       "title": "Paradise",
       "category": "beach_tropical",
@@ -1235,13 +1217,13 @@
       "full": "catalog/old_money/old_money_c21.png"
     },
     {
-      "id": "dark_aesthetic_new_b8_11",
+      "id": "dark_aesthetic_new_b9_11",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_11.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_11.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_11.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b9_11.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b9_11.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b9_11.png"
     },
     {
       "id": "cars_new_b7_11",
@@ -1325,15 +1307,6 @@
       "full": "catalog/abstract_gradient/abstract_gradient_17.png"
     },
     {
-      "id": "ocean_water_16",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_16.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_16.webp",
-      "full": "catalog/ocean_water/ocean_water_16.png"
-    },
-    {
       "id": "beach_tropical_18",
       "title": "Paradise",
       "category": "beach_tropical",
@@ -1352,13 +1325,13 @@
       "full": "catalog/old_money/old_money_b1_04.png"
     },
     {
-      "id": "dark_aesthetic_new_b8_12",
+      "id": "dark_aesthetic_new_b9_12",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_12.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_12.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_12.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b9_12.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b9_12.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b9_12.png"
     },
     {
       "id": "cars_new_b7_12",
@@ -1442,15 +1415,6 @@
       "full": "catalog/abstract_gradient/abstract_gradient_05.png"
     },
     {
-      "id": "ocean_water_23",
-      "title": "Tides",
-      "category": "ocean_water",
-      "author": "AI",
-      "thumb": "catalog/ocean_water/thumbs/ocean_water_23.webp",
-      "regular": "catalog/ocean_water/preview/ocean_water_23.webp",
-      "full": "catalog/ocean_water/ocean_water_23.png"
-    },
-    {
       "id": "beach_tropical_22",
       "title": "Paradise",
       "category": "beach_tropical",
@@ -1469,13 +1433,13 @@
       "full": "catalog/old_money/old_money_06.png"
     },
     {
-      "id": "dark_aesthetic_new_b5_01",
+      "id": "dark_aesthetic_new_b9_13",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_01.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_01.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_01.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b9_13.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b9_13.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b9_13.png"
     },
     {
       "id": "cars_new_b7_13",
@@ -1577,13 +1541,13 @@
       "full": "catalog/old_money/old_money_c22.png"
     },
     {
-      "id": "dark_aesthetic_new_b5_02",
+      "id": "dark_aesthetic_new_b9_14",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_02.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_02.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_02.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b9_14.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b9_14.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b9_14.png"
     },
     {
       "id": "cars_new_b7_14",
@@ -1685,13 +1649,13 @@
       "full": "catalog/old_money/old_money_c13.png"
     },
     {
-      "id": "dark_aesthetic_new_b5_03",
+      "id": "dark_aesthetic_new_b8_01",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_03.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_03.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_03.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_01.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_01.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_01.png"
     },
     {
       "id": "cars_new_b7_15",
@@ -1784,13 +1748,13 @@
       "full": "catalog/old_money/old_money_b1_13.png"
     },
     {
-      "id": "dark_aesthetic_new_b5_04",
+      "id": "dark_aesthetic_new_b8_02",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_04.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_04.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_04.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_02.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_02.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_02.png"
     },
     {
       "id": "cars_new_b7_16",
@@ -1874,13 +1838,13 @@
       "full": "catalog/old_money/old_money_c08.png"
     },
     {
-      "id": "dark_aesthetic_new_b5_05",
+      "id": "dark_aesthetic_new_b8_03",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_05.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_05.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_05.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_03.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_03.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_03.png"
     },
     {
       "id": "cars_new_b7_17",
@@ -1955,13 +1919,13 @@
       "full": "catalog/old_money/old_money_03.png"
     },
     {
-      "id": "dark_aesthetic_new_b5_06",
+      "id": "dark_aesthetic_new_b8_04",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_06.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_06.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_06.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_04.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_04.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_04.png"
     },
     {
       "id": "cars_new_b7_18",
@@ -2036,13 +2000,13 @@
       "full": "catalog/old_money/old_money_c05.png"
     },
     {
-      "id": "dark_aesthetic_new_b5_07",
+      "id": "dark_aesthetic_new_b8_05",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_07.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_07.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_07.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_05.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_05.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_05.png"
     },
     {
       "id": "cars_new_b7_19",
@@ -2117,13 +2081,13 @@
       "full": "catalog/old_money/old_money_c15.png"
     },
     {
-      "id": "dark_aesthetic_new_b5_08",
+      "id": "dark_aesthetic_new_b8_06",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_08.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_08.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_08.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_06.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_06.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_06.png"
     },
     {
       "id": "animals_new_b5_05",
@@ -2189,13 +2153,13 @@
       "full": "catalog/old_money/old_money_c19.png"
     },
     {
-      "id": "dark_aesthetic_new_b5_09",
+      "id": "dark_aesthetic_new_b8_07",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_09.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_09.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_09.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_07.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_07.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_07.png"
     },
     {
       "id": "animals_new_b5_06",
@@ -2261,13 +2225,13 @@
       "full": "catalog/old_money/old_money_12.png"
     },
     {
-      "id": "dark_aesthetic_new_b5_10",
+      "id": "dark_aesthetic_new_b8_08",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_10.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_10.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_10.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_08.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_08.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_08.png"
     },
     {
       "id": "animals_new_b5_07",
@@ -2333,13 +2297,13 @@
       "full": "catalog/old_money/old_money_c09.png"
     },
     {
-      "id": "dark_aesthetic_new_b5_11",
+      "id": "dark_aesthetic_new_b8_09",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_11.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_11.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_11.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_09.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_09.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_09.png"
     },
     {
       "id": "animals_new_b5_08",
@@ -2405,13 +2369,13 @@
       "full": "catalog/old_money/old_money_07.png"
     },
     {
-      "id": "dark_aesthetic_new_b5_12",
+      "id": "dark_aesthetic_new_b8_10",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_12.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_12.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_12.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_10.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_10.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_10.png"
     },
     {
       "id": "animals_new_b5_09",
@@ -2477,13 +2441,13 @@
       "full": "catalog/old_money/old_money_c04.png"
     },
     {
-      "id": "dark_aesthetic_new_b5_13",
+      "id": "dark_aesthetic_new_b8_11",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_13.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_13.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_13.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_11.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_11.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_11.png"
     },
     {
       "id": "animals_new_b5_10",
@@ -2549,13 +2513,13 @@
       "full": "catalog/old_money/old_money_c17.png"
     },
     {
-      "id": "dark_aesthetic_new_b5_14",
+      "id": "dark_aesthetic_new_b8_12",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_14.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_14.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_14.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b8_12.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b8_12.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b8_12.png"
     },
     {
       "id": "animals_new_b5_11",
@@ -2621,13 +2585,13 @@
       "full": "catalog/old_money/old_money_c18.png"
     },
     {
-      "id": "dark_aesthetic_new_b4_01",
+      "id": "dark_aesthetic_new_b5_01",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b4_01.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b4_01.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b4_01.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_01.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_01.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_01.png"
     },
     {
       "id": "animals_new_b5_12",
@@ -2693,13 +2657,13 @@
       "full": "catalog/old_money/old_money_c03.png"
     },
     {
-      "id": "dark_aesthetic_new_b4_02",
+      "id": "dark_aesthetic_new_b5_02",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b4_02.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b4_02.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b4_02.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_02.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_02.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_02.png"
     },
     {
       "id": "animals_new_b5_13",
@@ -2765,13 +2729,13 @@
       "full": "catalog/old_money/old_money_b1_12.png"
     },
     {
-      "id": "dark_aesthetic_new_b4_03",
+      "id": "dark_aesthetic_new_b5_03",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b4_03.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b4_03.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b4_03.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_03.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_03.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_03.png"
     },
     {
       "id": "lux_abstract_b1_18",
@@ -2828,13 +2792,13 @@
       "full": "catalog/old_money/old_money_08.png"
     },
     {
-      "id": "dark_aesthetic_new_b4_04",
+      "id": "dark_aesthetic_new_b5_04",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b4_04.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b4_04.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b4_04.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_04.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_04.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_04.png"
     },
     {
       "id": "lux_abstract_b1_20",
@@ -2891,13 +2855,13 @@
       "full": "catalog/old_money/old_money_b1_09.png"
     },
     {
-      "id": "dark_aesthetic_new_b2_01",
+      "id": "dark_aesthetic_new_b5_05",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_01.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_01.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_01.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_05.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_05.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_05.png"
     },
     {
       "id": "lux_abstract_b1_13",
@@ -2954,13 +2918,13 @@
       "full": "catalog/old_money/old_money_01.png"
     },
     {
-      "id": "dark_aesthetic_new_b2_02",
+      "id": "dark_aesthetic_new_b5_06",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_02.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_02.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_02.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_06.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_06.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_06.png"
     },
     {
       "id": "lux_abstract_b1_10",
@@ -3017,13 +2981,13 @@
       "full": "catalog/old_money/old_money_b1_10.png"
     },
     {
-      "id": "dark_aesthetic_new_b2_03",
+      "id": "dark_aesthetic_new_b5_07",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_03.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_03.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_03.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_07.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_07.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_07.png"
     },
     {
       "id": "lux_abstract_b1_04",
@@ -3080,13 +3044,13 @@
       "full": "catalog/old_money/old_money_b1_11.png"
     },
     {
-      "id": "dark_aesthetic_new_b2_04",
+      "id": "dark_aesthetic_new_b5_08",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_04.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_04.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_04.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_08.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_08.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_08.png"
     },
     {
       "id": "lux_abstract_c05",
@@ -3143,13 +3107,13 @@
       "full": "catalog/old_money/old_money_02.png"
     },
     {
-      "id": "dark_aesthetic_new_b2_05",
+      "id": "dark_aesthetic_new_b5_09",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_05.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_05.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_05.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_09.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_09.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_09.png"
     },
     {
       "id": "abstract",
@@ -3197,13 +3161,13 @@
       "full": "catalog/old_money/old_money_11.png"
     },
     {
-      "id": "dark_aesthetic_new_b2_06",
+      "id": "dark_aesthetic_new_b5_10",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_06.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_06.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_06.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_10.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_10.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_10.png"
     },
     {
       "id": "lux_abstract_c15",
@@ -3251,13 +3215,13 @@
       "full": "catalog/old_money/old_money_c16.png"
     },
     {
-      "id": "dark_aesthetic_new_b2_07",
+      "id": "dark_aesthetic_new_b5_11",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_07.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_07.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_07.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_11.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_11.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_11.png"
     },
     {
       "id": "lux_abstract_c18",
@@ -3305,13 +3269,13 @@
       "full": "catalog/old_money/old_money_b1_01.png"
     },
     {
-      "id": "dark_aesthetic_new_b2_08",
+      "id": "dark_aesthetic_new_b5_12",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_08.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_08.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_08.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_12.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_12.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_12.png"
     },
     {
       "id": "lux_abstract_b1_12",
@@ -3359,13 +3323,13 @@
       "full": "catalog/old_money/old_money_b1_06.png"
     },
     {
-      "id": "dark_aesthetic_new_b2_09",
+      "id": "dark_aesthetic_new_b5_13",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_09.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_09.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_09.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_13.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_13.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_13.png"
     },
     {
       "id": "lux_abstract_c08",
@@ -3413,13 +3377,13 @@
       "full": "catalog/old_money/old_money_c10.png"
     },
     {
-      "id": "dark_aesthetic_new_b2_10",
+      "id": "dark_aesthetic_new_b5_14",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_10.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_10.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_10.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b5_14.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b5_14.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b5_14.png"
     },
     {
       "id": "lux_abstract_b1_03",
@@ -3467,13 +3431,13 @@
       "full": "catalog/old_money/old_money_c07.png"
     },
     {
-      "id": "dark_aesthetic_new_b2_11",
+      "id": "dark_aesthetic_new_b4_01",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_11.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_11.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_11.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b4_01.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b4_01.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b4_01.png"
     },
     {
       "id": "lux_abstract_b1_09",
@@ -3521,13 +3485,13 @@
       "full": "catalog/old_money/old_money_c20.png"
     },
     {
-      "id": "dark_aesthetic_new_b2_12",
+      "id": "dark_aesthetic_new_b4_02",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_12.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_12.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_12.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b4_02.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b4_02.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b4_02.png"
     },
     {
       "id": "lux_abstract_04",
@@ -3575,13 +3539,13 @@
       "full": "catalog/old_money/old_money_05.png"
     },
     {
-      "id": "dark_aesthetic_new_b2_13",
+      "id": "dark_aesthetic_new_b4_03",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_13.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_13.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_13.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b4_03.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b4_03.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b4_03.png"
     },
     {
       "id": "lux_abstract_06",
@@ -3629,13 +3593,13 @@
       "full": "catalog/old_money/old_money_c12.png"
     },
     {
-      "id": "dark_aesthetic_10",
+      "id": "dark_aesthetic_new_b4_04",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_10.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_10.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_10.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b4_04.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b4_04.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b4_04.png"
     },
     {
       "id": "city_skyline_12",
@@ -3674,13 +3638,13 @@
       "full": "catalog/old_money/old_money_b1_03.png"
     },
     {
-      "id": "dark_aesthetic_c12",
+      "id": "dark_aesthetic_new_b2_01",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c12.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c12.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c12.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_01.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_01.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_01.png"
     },
     {
       "id": "city_skyline_c09",
@@ -3719,13 +3683,13 @@
       "full": "catalog/old_money/old_money_09.png"
     },
     {
-      "id": "dark_aesthetic_c10",
+      "id": "dark_aesthetic_new_b2_02",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c10.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c10.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c10.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_02.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_02.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_02.png"
     },
     {
       "id": "city_skyline_20",
@@ -3755,13 +3719,13 @@
       "full": "catalog/nature_landscape/nature_landscape_21.png"
     },
     {
-      "id": "dark_aesthetic_b1_04",
+      "id": "dark_aesthetic_new_b2_03",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_04.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_04.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_04.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_03.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_03.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_03.png"
     },
     {
       "id": "city_skyline_c04",
@@ -3791,13 +3755,13 @@
       "full": "catalog/nature_landscape/nature_landscape_b1_07.png"
     },
     {
-      "id": "dark_aesthetic_05",
+      "id": "dark_aesthetic_new_b2_04",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_05.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_05.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_05.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_04.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_04.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_04.png"
     },
     {
       "id": "city_skyline_b1_03",
@@ -3827,13 +3791,13 @@
       "full": "catalog/nature_landscape/nature_landscape_w03.png"
     },
     {
-      "id": "panther",
+      "id": "dark_aesthetic_new_b2_05",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/panther.webp",
-      "regular": "catalog/dark_aesthetic/preview/panther.webp",
-      "full": "catalog/dark_aesthetic/panther.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_05.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_05.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_05.png"
     },
     {
       "id": "city_skyline_14",
@@ -3854,13 +3818,13 @@
       "full": "catalog/nature_landscape/nature_landscape_b1_21.png"
     },
     {
-      "id": "dark_aesthetic_c07",
+      "id": "dark_aesthetic_new_b2_06",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c07.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c07.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c07.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_06.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_06.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_06.png"
     },
     {
       "id": "city_skyline_c14",
@@ -3881,13 +3845,13 @@
       "full": "catalog/nature_landscape/nature_landscape_b1_10.png"
     },
     {
-      "id": "dark_aesthetic_b1_08",
+      "id": "dark_aesthetic_new_b2_07",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_08.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_08.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_08.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_07.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_07.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_07.png"
     },
     {
       "id": "city_skyline_c06",
@@ -3908,13 +3872,13 @@
       "full": "catalog/nature_landscape/nature_landscape_20.png"
     },
     {
-      "id": "dark_aesthetic_04",
+      "id": "dark_aesthetic_new_b2_08",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_04.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_04.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_04.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_08.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_08.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_08.png"
     },
     {
       "id": "city_skyline_b1_06",
@@ -3935,13 +3899,13 @@
       "full": "catalog/nature_landscape/nature_landscape_b1_11.png"
     },
     {
-      "id": "dark_aesthetic_b1_10",
+      "id": "dark_aesthetic_new_b2_09",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_10.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_10.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_10.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_09.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_09.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_09.png"
     },
     {
       "id": "city_skyline_01",
@@ -3962,13 +3926,13 @@
       "full": "catalog/nature_landscape/nature_landscape_w02.png"
     },
     {
-      "id": "dark_aesthetic_b1_07",
+      "id": "dark_aesthetic_new_b2_10",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_07.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_07.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_07.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_10.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_10.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_10.png"
     },
     {
       "id": "city_skyline_b1_07",
@@ -3989,13 +3953,13 @@
       "full": "catalog/nature_landscape/nature_landscape_w01.png"
     },
     {
-      "id": "dark_aesthetic_b1_12",
+      "id": "dark_aesthetic_new_b2_11",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_12.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_12.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_12.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_11.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_11.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_11.png"
     },
     {
       "id": "city_skyline_08",
@@ -4016,13 +3980,13 @@
       "full": "catalog/nature_landscape/nature_landscape_w05.png"
     },
     {
-      "id": "cat",
+      "id": "dark_aesthetic_new_b2_12",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/cat.webp",
-      "regular": "catalog/dark_aesthetic/preview/cat.webp",
-      "full": "catalog/dark_aesthetic/cat.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_12.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_12.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_12.png"
     },
     {
       "id": "city_skyline_b1_28",
@@ -4043,13 +4007,13 @@
       "full": "catalog/nature_landscape/nature_landscape_b1_04.png"
     },
     {
-      "id": "dark_aesthetic_03",
+      "id": "dark_aesthetic_new_b2_13",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_03.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_03.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_03.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_new_b2_13.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_new_b2_13.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_new_b2_13.png"
     },
     {
       "id": "city_skyline_b1_15",
@@ -4070,13 +4034,13 @@
       "full": "catalog/nature_landscape/nature_landscape_b1_02.png"
     },
     {
-      "id": "dark_aesthetic_b1_16",
+      "id": "dark_aesthetic_10",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_16.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_16.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_16.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_10.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_10.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_10.png"
     },
     {
       "id": "city_skyline_06",
@@ -4097,13 +4061,13 @@
       "full": "catalog/nature_landscape/nature_landscape_b1_20.png"
     },
     {
-      "id": "dark_aesthetic_b1_18",
+      "id": "dark_aesthetic_c12",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_18.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_18.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_18.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c12.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c12.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c12.png"
     },
     {
       "id": "city_skyline_c03",
@@ -4115,13 +4079,13 @@
       "full": "catalog/city_skyline/city_skyline_c03.png"
     },
     {
-      "id": "dark_aesthetic_c03",
+      "id": "dark_aesthetic_c10",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c03.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c03.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c03.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c10.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c10.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c10.png"
     },
     {
       "id": "city_skyline_b1_09",
@@ -4133,13 +4097,13 @@
       "full": "catalog/city_skyline/city_skyline_b1_09.png"
     },
     {
-      "id": "dark_aesthetic_b1_05",
+      "id": "dark_aesthetic_b1_04",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_05.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_05.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_05.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_04.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_04.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_04.png"
     },
     {
       "id": "city_skyline_19",
@@ -4151,13 +4115,13 @@
       "full": "catalog/city_skyline/city_skyline_19.png"
     },
     {
-      "id": "dark_aesthetic_c09",
+      "id": "dark_aesthetic_05",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c09.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c09.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c09.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_05.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_05.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_05.png"
     },
     {
       "id": "city_skyline_b1_22",
@@ -4169,13 +4133,13 @@
       "full": "catalog/city_skyline/city_skyline_b1_22.png"
     },
     {
-      "id": "dark_aesthetic_b1_19",
+      "id": "panther",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_19.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_19.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_19.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/panther.webp",
+      "regular": "catalog/dark_aesthetic/preview/panther.webp",
+      "full": "catalog/dark_aesthetic/panther.png"
     },
     {
       "id": "city_skyline_b1_12",
@@ -4187,13 +4151,13 @@
       "full": "catalog/city_skyline/city_skyline_b1_12.png"
     },
     {
-      "id": "dark_aesthetic_01",
+      "id": "dark_aesthetic_c07",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_01.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_01.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_01.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c07.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c07.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c07.png"
     },
     {
       "id": "city_skyline_b1_04",
@@ -4205,13 +4169,13 @@
       "full": "catalog/city_skyline/city_skyline_b1_04.png"
     },
     {
-      "id": "dark_aesthetic_c11",
+      "id": "dark_aesthetic_b1_08",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c11.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c11.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c11.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_08.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_08.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_08.png"
     },
     {
       "id": "city_skyline_c11",
@@ -4223,13 +4187,13 @@
       "full": "catalog/city_skyline/city_skyline_c11.png"
     },
     {
-      "id": "dark_aesthetic_b1_02",
+      "id": "dark_aesthetic_04",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_02.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_02.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_02.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_04.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_04.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_04.png"
     },
     {
       "id": "city_skyline_04",
@@ -4241,13 +4205,13 @@
       "full": "catalog/city_skyline/city_skyline_04.png"
     },
     {
-      "id": "dark_aesthetic_b1_14",
+      "id": "dark_aesthetic_b1_10",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_14.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_14.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_14.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_10.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_10.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_10.png"
     },
     {
       "id": "city_skyline_c02",
@@ -4259,13 +4223,13 @@
       "full": "catalog/city_skyline/city_skyline_c02.png"
     },
     {
-      "id": "dark_aesthetic_c15",
+      "id": "dark_aesthetic_b1_07",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c15.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c15.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_c15.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_07.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_07.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_07.png"
     },
     {
       "id": "city_skyline_b1_05",
@@ -4277,13 +4241,13 @@
       "full": "catalog/city_skyline/city_skyline_b1_05.png"
     },
     {
-      "id": "dark_aesthetic_b1_17",
+      "id": "dark_aesthetic_b1_12",
       "title": "After Dark",
       "category": "dark_aesthetic",
       "author": "AI",
-      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_17.webp",
-      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_17.webp",
-      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_17.png"
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_12.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_12.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_12.png"
     },
     {
       "id": "city_skyline_02",
@@ -4293,6 +4257,132 @@
       "thumb": "catalog/city_skyline/thumbs/city_skyline_02.webp",
       "regular": "catalog/city_skyline/preview/city_skyline_02.webp",
       "full": "catalog/city_skyline/city_skyline_02.png"
+    },
+    {
+      "id": "cat",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/cat.webp",
+      "regular": "catalog/dark_aesthetic/preview/cat.webp",
+      "full": "catalog/dark_aesthetic/cat.png"
+    },
+    {
+      "id": "dark_aesthetic_03",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_03.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_03.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_03.png"
+    },
+    {
+      "id": "dark_aesthetic_b1_16",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_16.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_16.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_16.png"
+    },
+    {
+      "id": "dark_aesthetic_b1_18",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_18.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_18.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_18.png"
+    },
+    {
+      "id": "dark_aesthetic_c03",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c03.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c03.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c03.png"
+    },
+    {
+      "id": "dark_aesthetic_b1_05",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_05.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_05.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_05.png"
+    },
+    {
+      "id": "dark_aesthetic_c09",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c09.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c09.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c09.png"
+    },
+    {
+      "id": "dark_aesthetic_b1_19",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_19.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_19.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_19.png"
+    },
+    {
+      "id": "dark_aesthetic_01",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_01.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_01.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_01.png"
+    },
+    {
+      "id": "dark_aesthetic_c11",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c11.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c11.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c11.png"
+    },
+    {
+      "id": "dark_aesthetic_b1_02",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_02.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_02.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_02.png"
+    },
+    {
+      "id": "dark_aesthetic_b1_14",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_14.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_14.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_14.png"
+    },
+    {
+      "id": "dark_aesthetic_c15",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_c15.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_c15.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_c15.png"
+    },
+    {
+      "id": "dark_aesthetic_b1_17",
+      "title": "After Dark",
+      "category": "dark_aesthetic",
+      "author": "AI",
+      "thumb": "catalog/dark_aesthetic/thumbs/dark_aesthetic_b1_17.webp",
+      "regular": "catalog/dark_aesthetic/preview/dark_aesthetic_b1_17.webp",
+      "full": "catalog/dark_aesthetic/dark_aesthetic_b1_17.png"
     },
     {
       "id": "dark_aesthetic_c01",
